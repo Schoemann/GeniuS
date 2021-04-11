@@ -1,0 +1,2139 @@
+2,DJ,DJane bzw. DJ
+4,Arzt,Ärztin bzw. Arzt
+4,Chef,Chefin bzw. Chef
+4,Erbe,Erbberechtigte
+4,Erbe,Erbin bzw. Erbe
+4,Gast,Eingeladene
+4,Gast,Gästin bzw. Gast
+4,Koch,Köchin bzw. Koch
+4,Star,Berühmtheit
+4,User,Userin bzw. User
+4,User,UserInnen
+5,Agent,Agentin und Agent
+5,Ärzte,Ärzteschaft
+5,Ärzte,ÄrztInnen
+5,Ärzte,Ärztinnen und Ärzte
+5,Autor,Autorin und Autor
+5,Bauer,Bäuerin und Bauer
+5,Clown,Clownin bzw. Clown
+5,Dekan,Dekanin bzw. Dekan
+5,Gäste,Gästinnen und Gäste
+5,Hörer,Hörerin bzw. Hörer
+5,Hörer,HörerInnen
+5,Hörer,Hörerinnen und Hörer
+5,jeder,alle
+5,Köche,Köchinnen und Köche
+5,Kunde,Kundschaft
+5,Lotse,Lotsin bzw. Lotse
+5,Maler,Malerin bzw. Maler
+5,Maler,MalerInnen
+5,Maler,Malerinnen und Maler
+5,Näher,Näherin bzw. Näher
+5,Näher,NäherInnen
+5,Näher,Näherinnen und Näher
+5,Notar,Notarin bzw. Notar
+5,Pilot,Pilotin bzw. Pilot
+5,Seher,Seherin bzw. Seher
+5,Seher,SeherInnen
+5,Seher,Seherinnen und Seher
+5,Täter,Täterin bzw. Täter
+5,Täter,TäterInnen
+5,Weber,Weberin bzw. Weber
+5,Weber,WeberInnen
+5,Weber,Weberinnen und Weber
+5,Zeuge,Zeugin bzw. Zeuge
+6,Akteur,Akteurin und Akteur
+6,Anwalt,Anwalt und Anwältin
+6,Anwalt,Rechtsvertretung
+6,Ärzten,Ärzteschaft
+6,Ärzten,Ärztinnen und Ärzten
+6,Athlet,Athletin und Athlet
+6,Bäcker,Bäckerin und Bäcker
+6,Bäcker,BäckerInnen
+6,Bäcker,Bäckerinnen und Bäcker
+6,Bauern,Bäuerinnen und Bauern
+6,Beamte,BeamtInnen
+6,Beamte,Beamtinnen und Beamten
+6,Brauer,Brauerin bzw. Brauer
+6,Brauer,BrauerInnen
+6,Brauer,Brauerinnen und Brauer
+6,Bürger,Bevölkerung
+6,Bürger,Bürgerin bzw. Bürger
+6,Bürger,BürgerInnen
+6,Bürger,Bürgerinnen und Bürger
+6,Dekane,Dekanate
+6,Dekane,Dekaninnen und Dekane
+6,Doktor,Doktorin bzw. Doktor
+6,Dozent,Dozentin bzw. Dozent
+6,Dreher,Dreherin bzw. Dreher
+6,Dreher,DreherInnen
+6,Dreher,Dreherinnen und Dreher
+6,Fahrer,Fahrerin bzw. Fahrer
+6,Fahrer,FahrerInnen
+6,Fahrer,Fahrerinnen und Fahrer
+6,Fiaker,Fiakerin bzw. Fiaker
+6,Fiaker,FiakerInnen
+6,Fiaker,Fiakerinnen und Fiaker
+6,Frisör,Frisörin bzw. Frisör
+6,Führer,Führerin und Führer
+6,Führer,FührerInnen
+6,Führer,Führerinnen und Führer
+6,Gerber,Gerberin bzw. Gerber
+6,Gerber,GerberInnen
+6,Gerber,Gerberinnen und Gerber
+6,Gießer,Gießerin bzw. Gießer
+6,Gießer,GießerInnen
+6,Gießer,Gießerinnen und Gießer
+6,Glaser,Glaserin und Glaser
+6,Glaser,GlaserInnen
+6,Glaser,Glaserinnen und Glaser
+6,Grazer,Grazerin bzw. Grazer
+6,Grazer,GrazerInnen
+6,Grazer,Grazerinnen und Grazer
+6,Hacker,Hackerin bzw. Hacker
+6,Heizer,Heizerin bzw. Heizer
+6,Heizer,HeizerInnen
+6,Heizer,Heizerinnen und Heizer
+6,Hörern,Hörerinnen und Hörern
+6,Jurist,Juristin bzw. Jurist
+6,Käufer,Käuferin bzw. Käufer
+6,Köchen,Köchinnen und Köchen
+6,Kunden,Kundinnen und Kunden
+6,Kustos,Kustodin bzw. Kustos
+6,Lehrer,Lehrerin bzw. Lehrer
+6,Lehrer,LehrerInnen
+6,Lehrer,Lehrerinnen und Lehrer
+6,Leiter,Leiterin bzw. Leiter
+6,Leiter,LeiterInnen
+6,Leiter,Leiterinnen und Leiter
+6,Leiter,Leitung
+6,Lektor,Lektorin und Lektor
+6,Lenker,Lenkerin bzw. Lenker
+6,Lenker,LenkerInnen
+6,Lenker,Lenkerinnen und Lenker
+6,Linzer,Linzerin bzw. Linzer
+6,Linzer,LinzerInnen
+6,Linzer,Linzerinnen und Linzer
+6,Lotsen,Lotsinnen und Lotsen
+6,Makler,Maklerin bzw. Makler
+6,Makler,MaklerInnen
+6,Makler,Maklerinnen und Makler
+6,Malern,Malerinnen und Malern
+6,Master,Masterin bzw. Master
+6,Maurer,Maurerin bzw. Maurer
+6,Maurer,MaurerInnen
+6,Maurer,Maurerinnen und Maurer
+6,Mieter,Mieterin bzw. Mieter
+6,Mieter,MieterInnen
+6,Mieter,Mieterinnen und Mieter
+6,Nähern,NäherInnen
+6,Nähern,Näherinnen und Nähern
+6,Notare,Notarinnen und Notare
+6,Oberin,Oberin bzw. Pflegevorsteher
+6,Planer,Planerin bzw. Planer
+6,Planer,PlanerInnen
+6,Planer,Planerinnen und Planer
+6,Prüfer,Prüferin bzw. Prüfer
+6,Prüfer,PrüferInnen
+6,Prüfer,Prüferinnen und Prüfer
+6,Redner,Rednerin bzw. Redner
+6,Redner,RednerInnen
+6,Redner,Rednerinnen und Redner
+6,Reiter,Reiterin bzw. Reiter
+6,Reiter,ReiterInnen
+6,Reiter,Reiterinnen und Reiter
+6,Rektor,Rektorat
+6,Rektor,Rektorin bzw. Rektor
+6,Segler,Seglerin bzw. Segler
+6,Segler,SeglerInnen
+6,Segler,Seglerinnen und Segler
+6,Sehern,Seherinnen und Sehern
+6,Sender,gesendet von
+6,Senner,Sennerin bzw. Senner
+6,Senner,SennerInnen
+6,Senner,Sennerinnen und Senner
+6,Soldat,Soldatin bzw. Soldat
+6,Tätern,Täterinnen und Tätern
+6,Tester,Testerin bzw. Tester
+6,Tester,TesterInnen
+6,Tester,Testerinnen und Tester
+6,Töpfer,Töpferin bzw. Töpfer
+6,Töpfer,TöpferInnen
+6,Töpfer,Töpferinnen und Töpfer
+6,Wähler,Wahlberechtigte
+6,Wähler,WählerInnen
+6,Wähler,Wählerinnen und Wähler
+6,Webern,Weberinnen und Webern
+6,Wiener,Wienerin bzw. Wiener
+6,Wiener,WienerInnen
+6,Wiener,Wienerinnen und Wiener
+6,Winzer,Winzerin bzw. Winzer
+6,Winzer,WinzerInnen
+6,Winzer,Winzerinnen und Winzer
+6,Zeugen,Zeuginnen und Zeugen
+7,Agenten,Agentinnen und Agenten
+7,Akteure,Akteurinnen und Akteure
+7,Amtsrat,Amtsrätin bzw. Amtsrat
+7,Analyst,Analystin bzw. Analyst
+7,Anleger,Anlegerin und Anleger
+7,Anleger,AnlegerInnen
+7,Anleger,Anlegerinnen und Anleger
+7,Anrufer,angerufen hat
+7,Anrufer,Anruf von
+7,Anrufer,Anruferin und Anrufer
+7,Anrufer,AnruferInnen
+7,Anrufer,Anruferinnen und Anrufer
+7,Anwälte,Anwältinnen und Anwälte
+7,Asiaten,Asiatinnen und Asiaten
+7,Autoren,Autorinnen und Autoren
+7,Bäckern,Bäckerinnen und Bäckern
+7,Bauherr,Bauherrin bzw. Bauherr
+7,Beamten,Beamtinnen und Beamten
+7,Beamter,Beamtin bzw. Beamter
+7,bemannt,besetzt mit
+7,Berater,Beraterin bzw. Berater
+7,Berater,Beratung
+7,Berater,es berät Sie
+7,Berater,Sie werden beraten von
+7,Biologe,Biologin und Biologe
+7,Bischof,Bischöfin bzw. Bischof
+7,Brauern,Brauerinnen und Brauern
+7,Bürgern,Bürgerinnen und Bürgern
+7,Chirurg,Chirurgin bzw. Chirurg
+7,Dentist,Dentistin bzw. Dentist
+7,Drehern,Dreherinnen und Drehern
+7,Experte,Fachleute
+7,Fahrern,Fahrerinnen und Fahrern
+7,Fiakern,Fiakerinnen und Fiakern
+7,Fischer,Fischerin bzw. Fischer
+7,Fischer,FischerInnen
+7,Fischer,Fischerinnen und Fischer
+7,Förster,Försterin bzw. Förster
+7,Förster,FörsterInnen
+7,Förster,Försterinnen und Förster
+7,Friseur,Friseurin bzw. Friseur
+7,Frisöre,Frisörinnen und Frisöre
+7,Führern,Führerinnen und Führern
+7,Gärtner,Gärtnerin bzw. Gärtner
+7,Gärtner,GärtnerInnen
+7,Gärtner,Gärtnerinnen und Gärtner
+7,Genosse,Genossin bzw. Genosse
+7,Gerbern,Gerberinnen und Gerbern
+7,Gießern,Gießerinnen und Gießern
+7,Glasern,Glaserinnen und Glasern
+7,Grazern,Grazerinnen und Grazern
+7,Gründer,Gründerin bzw. Gründer
+7,Gründer,GründerInnen
+7,Gründer,Gründerinnen und Gründer
+7,Hebamme,Hebamme
+7,Inhaber,Inhaberin bzw. Inhaber
+7,Inhaber,InhaberInnen
+7,Kapitän,Kapitänin bzw. Kapitän
+7,Kassier,Kassierin bzw. Kassier
+7,Kellner,Kellnerin bzw. Kellner
+7,Kellner,KellnerInnen
+7,Kellner,Kellnerinnen und Kellner
+7,Kollege,Kollegin bzw. Kollege
+7,Kurator,Kuratorin bzw. Kurator
+7,Lehrern,Lehrerinnen und Lehrern
+7,Leitern,Leiterinnen und Leitern
+7,Lenkern,Lenkerinnen und Lenkern
+7,Linzern,Linzerinnen und Linzern
+7,Manager,Führungskraft
+7,Manager,Führungskräfte
+7,Manager,Managerin bzw. Manager
+7,Manager,ManagerInnen
+7,Manager,Managerinnen und Manager
+7,Masseur,Masseurin bzw. Masseur
+7,Maurern,Maurerinnen und Maurern
+7,Meister,Fachleute
+7,Meister,Genie
+7,Meister,Kapazität
+7,Meister,Meisterin bzw. Meister
+7,Mietern,Mieterinnen und Mietern
+7,Migrant,Person mit Mitgrationshintergrund
+7,Monteur,Monteurin bzw. Monteur
+7,Musiker,Musikerin bzw. Musiker
+7,Musiker,MusikerInnen
+7,Musiker,Musikerinnen und Musiker
+7,Nachbar,Nachbarin bzw. Nachbar
+7,Nachbar,Nachbarschaft
+7,Notaren,Notarinnen und Notaren
+7,Partner,beteiligte Institutionen
+7,Partner,Partei
+7,Partner,Vertragspartei
+7,Passant,Passantin bzw. Passant
+7,Patient,PatientIn
+7,Pfleger,Pflegerin bzw. Pfleger
+7,Pfleger,PflegerInnen
+7,Pfleger,Pflegerinnen und Pfleger
+7,Piloten,Pilotinnen und Piloten
+7,Portier,Portierin bzw. Portier
+7,Proband,Probandin bzw. Proband
+7,Prüfern,Prüferinnen und Prüfern
+7,Raucher,Raucherin bzw. Raucher
+7,Raucher,RaucherInnen
+7,Raucher,Raucherinnen und Raucher
+7,Rednern,Rednerinnen und Rednern
+7,Reitern,Reiterinnen und Reitern
+7,Revisor,Revisorin bzw. Revisor
+7,Richter,Richterin bzw. Richter
+7,Richter,RichterInnen
+7,Richter,Richterinnen und Richter
+7,Sattler,Sattlerin bzw. Sattler
+7,Sattler,SattlerInnen
+7,Sattler,Sattlerinnen und Sattler
+7,Schüler,Schülerin bzw. Schüler
+7,Schüler,SchülerInnen
+7,Schüler,Schülerinnen und Schüler
+7,Seglern,Seglerinnen und Seglern
+7,Sennern,Sennerinnen und Sennern
+7,Siedler,Siedlerin bzw. Siedler
+7,Siedler,SiedlerInnen
+7,Siedler,Siedlerinnen und Siedler
+7,Speaker,Speakerin bzw. Speaker
+7,Speaker,SpeakerInnen
+7,Speaker,Speakerinnnen bzw. Speaker
+7,Spieler,Spielerin bzw. Spieler
+7,Spieler,SpielerInnen
+7,Spieler,Spielerinnen und Spieler
+7,Sponsor,Sponsorin bzw. Sponsor
+7,Steirer,Steirerin bzw. Steirer
+7,Steirer,SteirerInnen
+7,Steirer,Steirerinnen und Steirer
+7,Student,Studentin bzw. Student
+7,Testern,Testerinnen und Testern
+7,Tiroler,Tirolerin bzw. Tiroler
+7,Tiroler,TirolerInnen
+7,Tiroler,Tirolerinnen und Tiroler
+7,Töpfern,Töpferinnen und Töpfern
+7,Trainer,Trainerin bzw. Trainer
+7,Trainer,TrainerInnen
+7,Trainer,Trainerinnen und Trainer
+7,Trinker,Trinkerin bzw. Trinker
+7,Trinker,TrinkerInnen
+7,Trinker,Trinkerinnen und Trinker
+7,Urologe,Urologin bzw. Urologe
+7,Vormund,Vormundin bzw. Vormund
+7,Vormund,Vormundschaft
+7,Wächter,Wache
+7,Wählern,Wählerinnen und Wählern
+7,Wienern,Wienerinnen und Wienern
+7,Winzern,Winzerinnen und Winzern
+7,Züchter,Züchterin bzw. Züchter
+7,Züchter,ZüchterInnen
+7,Züchter,Züchterinnen und Züchter
+7,Zuhörer,Auditorium
+7,Zuhörer,Publikum
+7,Zuhörer,Zuhörende
+7,Zuhörer,Zuhörerin bzw. Zuhörer
+7,Zuhörer,ZuhörerInnen
+7,Zuhörer,Zuhörerinnen und Zuhörer
+8,Abnehmer,Abnehmerin und Abnehmer
+8,Abnehmer,Abnehmerinnen und Abnehmer
+8,Abonnent,Abonnentin und Abonnent
+8,Absender,Absenderin bzw. Absender
+8,Absender,gesendet von
+8,Adressat,beauftragte Firma
+8,Amtsarzt,Amtsärztin und Amtsarzt
+8,Anbieter,Anbietende
+8,Anhänger,Anhängerin bzw. Anhänger
+8,Anhänger,AnhängerInnen
+8,Anhänger,Anhängerinnen und Anhänger
+8,Anlegern,Anlegerinnen und Anlegern
+8,Anrainer,Anrainerin bzw. Anrainer
+8,Anrainer,AnrainerInnen
+8,Anrainer,Anrainerinnen und Anrainer
+8,Anwälten,Anwältinnen und Anwälten
+8,Anwärter,Anwärterin und Anwärter
+8,Anwärter,AnwärterInnen
+8,Anwärter,Anwärterinnen und Anwärter
+8,Anwender,Anwenderin und Anwender
+8,Anwender,AnwenderInnen
+8,Anwender,Anwenderinnen und Anwender
+8,Anwerber,Anwerberin und Anwerber
+8,Anwerber,AnwerberInnen
+8,Anwerber,Anwerberinnen und Anwerber
+8,Anwohner,Anwohnende
+8,Anwohner,Anwohnerin bzw. Anwohner
+8,Anwohner,Nachbarschaft
+8,Arbeiter,Arbeiterin bzw. Arbeiter
+8,Arbeiter,ArbeiterInnen
+8,Arbeiter,Arbeiterinnen und Arbeiter
+8,Archivar,Archivarin bzw. Archivar
+8,Astronom,Astronomin und Astronom
+8,Athleten,Athletinnen und Athleten
+8,Aufseher,Aufseherin bzw. Aufseher
+8,Aufseher,AufseherInnen
+8,Bachelor,Bachelorandin bzw. Bachelor
+8,Benutzer,BenutzerIn
+8,Benutzer,Benutzerin und Benutzer
+8,Benutzer,BenutzerInnen
+8,Benutzer,Benutzerinnen und Benutzer
+8,Besitzer,Besitzerin bzw. Besitzer
+8,Besitzer,im Besitz von
+8,Besucher,Besucherin bzw. Besucher
+8,Besucher,BesucherInnen
+8,Besucher,Besucherinnen und Besucher
+8,Betreuer,Betreuerin bzw. Betreuer
+8,Betreuer,BetreuerInnen
+8,Betreuer,Betreuerinnen und Betreuer
+8,Betreuer,Betreuungsperson
+8,Bewerber,Bewerberin bzw. Bewerber
+8,Bewerber,BewerberInnen
+8,Bewerber,Bewerberinnen und Bewerber
+8,Bewohner,Bewohnerin bzw. Bewohner
+8,Bewohner,BewohnerInnen
+8,Bewohner,Bewohnerinnen und Bewohner
+8,Biologen,Biologinnen und Biologen
+8,Chemiker,Chemikerin bzw. Chemiker
+8,Chemiker,Chemikerin und Chemiker
+8,Chemiker,ChemikerInnen
+8,Chemiker,Chemikerinnen und Chemiker
+8,Coiffeur,Coiffeuse bzw. Coiffeur
+8,Direktor,Direktorin bzw. Direktor
+8,Dirigent,Dirigentin bzw. Dirigent
+8,Doktoren,DoktorInnen
+8,Dozenten,Dozentinnen und Dozenten
+8,Ehegatte,Ehefrau bzw. Ehemann
+8,Ehegatte,Ehegattin bzw. Ehegatte
+8,Erzieher,Erzieherin bzw. Erzieher
+8,Erzieher,ErzieherInnen
+8,Erzieher,Erzieherinnen und Erzieher
+8,Europäer,Europäerin bzw. Europäer
+8,Europäer,EuropäerInnen
+8,Europäer,Europäerinnen und Europäer
+8,Facharzt,Fachärztin bzw. Facharzt
+8,Fachmann,Fachfrau bzw. Fachmann
+8,Fachmann,Fachkraft
+8,Fachmann,Fachleute
+8,Fährmann,Fährfrau bzw. Fährmann
+8,Fischern,Fischerinnen und Fischern
+8,Forscher,Forscherin bzw. Forscher
+8,Forscher,ForscherInnen
+8,Forscher,Forscherinnen und Forscher
+8,Förstern,Försterinnen und Förstern
+8,Friseure,Friseurinnen und Friseure
+8,Frisören,Frisörinnen und Frisören
+8,Gärtnern,Gärtnerinnen und Gärtnern
+8,Genossen,Genossinnen und Genossen
+8,Gewinner,Gewinnerin bzw. Gewinner
+8,Gewinner,GewinnerInnen
+8,Gewinner,Gewinnerinnen und Gewinner
+8,Grafiker,Grafikerin bzw. Grafiker
+8,Grafiker,GrafikerInnen
+8,Hausfrau,Hausfrau bzw. Hausmann
+8,Hebammen,Hebammen
+8,Juristen,Juristinnen und Juristen
+8,Kärntner,Kärntnerin bzw. Kärntner
+8,Kärntner,KärntnerInnen
+8,Kärntner,Kärntnerinnen und Kärntner
+8,Katholik,Katholikin bzw. Katholik
+8,Kaufmann,Kauffrau bzw. Kaufmann
+8,Kollegen,Kolleginnen und Kollegen
+8,Konditor,Konditorin bzw. Konditor
+8,Konditor,Konditorinnen und Konditor
+8,Kritiker,kritische Stimmen
+8,Künstler,Künstlerin bzw. Künstler
+8,Künstler,KünstlerInnen
+8,Künstler,Künstlerinnen und Künstler
+8,Laborant,Laborantin bzw. Laborant
+8,Laborant,Laborfachkraft
+8,Lehrling,weiblicher bzw. männlicher Lehrling
+8,Lektoren,Lektorinnen und Lektoren
+8,Logopäde,Logopädin bzw. Logopäde
+8,Magister,Magistra bzw. Magister
+8,Managern,Managerinnen und Managern
+8,Mandatar,Mandatarin bzw. Mandatar
+8,Mannjahr,Personenjahr
+8,Manntage,Personentage
+8,Masseure,Masseurinnen und Masseure
+8,Maturant,Maturantin bzw. Maturant
+8,Minister,Ministerin bzw. Minister
+8,Minister,MinisterInnen
+8,Minister,Ministerinnen und Minister
+8,Monteure,MonteurInnen
+8,Monteure,Monteurinnen und Monteure
+8,Musikern,Musikerinnen und Musikern
+8,Nachbarn,Nachbarinnen und Nachbarn
+8,Oberarzt,Oberärztin bzw. -arzt
+8,Operator,Operatorin bzw. Operator
+8,Organist,Organistin bzw. Organist
+8,Pädagoge,Pädagogin bzw. Pädagoge
+8,Physiker,Physikerin bzw. Physiker
+8,Physiker,PhysikerInnen
+8,Physiker,Physikerinnen und Physiker
+8,Polizist,Polizistin bzw. Polizist
+8,Portiere,PortierInnen
+8,Putzfrau,Putzfrau bzw. Putzmann
+8,Putzfrau,Reinigungspersonal
+8,Rauchern,Raucherinnen und Rauchern
+8,Referent,bearbeitet von
+8,Referent,ReferentIn
+8,Referent,Referentin bzw. Referet
+8,Rektoren,RektorInnen
+8,Richtern,Richterinnen und Richtern
+8,Sattlern,Sattlerinnen und Sattlern
+8,Schülern,Schülerinnen und Schülern
+8,Schuster,Schusterin bzw. Schuster
+8,Schuster,SchusterInnen
+8,Schuster,Schusterinnen und Schuster
+8,Sekretär,Sekretärin bzw. Sekretär
+8,Siedlern,Siedlerinnen und Siedlern
+8,Soldaten,Soldatinnen und Soldaten
+8,Speakern,Speakerin bzw. Speakern
+8,Spengler,Spenglerin bzw. Spengler
+8,Spengler,SpenglerInnen
+8,Spengler,Spenglerinnen und Spengler
+8,Spielern,Spielerinnen und Spielern
+8,Sportler,Sportlerin bzw. Sportler
+8,Sportler,SportlerInnen
+8,Sprecher,Sprecherin bzw. Sprecher
+8,Sprecher,SprecherInnen
+8,Sprecher,Sprecherinnen und Sprecher
+8,Springer,Springerin bzw. Springer
+8,Springer,SpringerInnen
+8,Stadtrat,Stadträtin bzw. Stadtrat
+8,Statiker,Statikerin bzw. Statiker
+8,Statiker,StatikerInnen
+8,Statiker,Statikerinnen und Statiker
+8,Steirern,Steirerinnen und Steirern
+8,Tierarzt,Tierärztin bzw. Tierarzt
+8,Tirolern,TirolerInnen
+8,Tirolern,Tirolerinnen und Tirolern
+8,Tischler,Tischlerin bzw. Tischler
+8,Tischler,TischlerInnen
+8,Tischler,Tischlerinnen und Tischler
+8,Urologen,Urologinnen und Urologen
+8,Vormunde,Vormundinnen und Vormunde
+8,Vorstand,Vorständin bzw. Vorstand
+8,Zahnarzt,Zahnärztin bzw. Zahnarzt
+8,Züchtern,Züchterinnen und Züchtern
+8,Zuhörern,Zuhörerinnen und Zuhörern
+9,Abnehmern,Abnehmerinnen und Abnehmern
+9,Absolvent,Absolventin und Absolvent
+9,Amtsärzte,Amtsärztinnen und Amtsärzte
+9,Anhängern,Anhängerinnen und Anhängern
+9,Anwärtern,Anwärterinnen und Anwärtern
+9,Anwendern,Anwenderinnen und Anwendern
+9,Anwerbern,Anwerberinnen und Anwerbern
+9,Apotheker,Apothekerin bzw. Apotheker
+9,Apotheker,Apothekerin und Apotheker
+9,Apotheker,ApothekerInnen
+9,Apotheker,Apothekerinnen und Apotheker
+9,Arbeitern,Arbeiterinnen und Arbeitern
+9,Architekt,Architektin und Architekt
+9,Archivare,Archivarinnen und Archivare
+9,Arztbrief,Entlassungsbrief; (ärztlicher) Befundbericht
+9,Assistent,Assistentin bzw. Assistent
+9,Assistent,Assistentin und Assistent
+9,Assistent,Assistenz
+9,Astrologe,Astrologin und Astrologe
+9,Ausländer,Ausländerinnen und Ausländer
+9,Bauwerber,Bauwerberin und Bauwerber
+9,Bauwerber,BauwerberInnen
+9,Bauwerber,Bauwerberinnen und Bauwerber
+9,Begleiter,Begleiterin und Begleiter
+9,Begleiter,BegleiterInnen
+9,Begleiter,Begleiterinnen und Begleiter
+9,Beifahrer,Beifahrerin und Beifahrer
+9,Beifahrer,BeifahrerInnen
+9,Beifahrer,Beifahrerinnen und Beifahrer
+9,Beisitzer,Beisitzende
+9,Beisitzer,Beisitzerin und Beisitzer
+9,Beisitzer,Beisitzerinnen und Beisitzer
+9,Beisitzer,BesitzerInnen
+9,Benutzern,Benutzerinnen und Benutzern
+9,Besuchern,Besucherinnen und Besuchern
+9,Betreuern,Betreuerinnen und Betreuern
+9,Bewerbern,Bewerberinnen und Bewerbern
+9,Bewohnern,Bewohnerinnen und Bewohnern
+9,Bildhauer,Bildhauerin und Bildhauer
+9,Bildhauer,BildhauerInnen
+9,Bildhauer,Bildhauerinnen und Bildhauer
+9,Bregenzer,Bregenzerin bzw. Bregenzer
+9,Bregenzer,BregenzerInnen
+9,Bregenzer,Bregenzerinnen und Bregenzer
+9,Chauffeur,Chauffeurin bzw. Chauffeur
+9,Chefsache,Sache mit oberster Priorität
+9,Chemikern,Chemikerinnen und Chemikern
+9,Chirurgen,Chirurginnen und Chirurgen
+9,Dentisten,DentistenInnen
+9,Dentisten,Dentistinnen und Dentisten
+9,Dezernent,Dezernentin bzw. Dezernent
+9,Diätologe,Diätologin bzw. Diätologe
+9,Drechsler,Drechslerin bzw. Drechsler
+9,Drechsler,DrechslerInnen
+9,Drechsler,Drechslerinnen und Drechsler
+9,Ehegatten,Eheleute
+9,Ehegatten,Ehepaar
+9,Einwohner,Einwohnerin und Einwohner
+9,Einwohner,EinwohnerInnen
+9,Einwohner,Einwohnerinnen und Einwohner
+9,Einwohner,Population
+9,Einwohner,Wohnbevölkerung
+9,Eisläufer,Eisläuferin bzw. Eisläufer
+9,Eisläufer,EisläuferInnen
+9,Eisläufer,Eisläuferinnen und Eisläufer
+9,Empfänger,bestimmt für
+9,Empfänger,empfangen von
+9,Empfänger,Empfängerin bzw. Empfänger
+9,Empfänger,EmpfängerInnen
+9,Erziehern,Erzieherinnen und Erziehern
+9,Europäern,Europäerinnen und Europäern
+9,Evaluator,Evaluatorin bzw. Evaluator
+9,Fleischer,Fleischerin und Fleischer
+9,Fleischer,FleischerInnen
+9,Fleischer,Fleischerinnen und Fleischer
+9,Fluglotse,Fluglotsin bzw. Fluglotse
+9,Forschern,Forscherinnen und Forschern
+9,Friseurin,Friseurin bzw. Friseur
+9,Fußgänger,zu Fuß Gehende
+9,Gasthörer,Studierende im Gaststudium
+9,Geldgeber,Geldgebende
+9,Gewinnern,Gewinnerinnen und Gewinnern
+9,Gutachter,Sachverständige
+9,herrenlos,verlassen; nicht zuordnen; unbeaufsichtigt
+9,Herrscher,Staatsoberhaupt
+9,Hilfskoch,Hilfsköchin bzw. -koch
+9,Ingenieur,Ingenieurin bzw. Ingenieur
+9,Inspektor,Inspektorin bzw. Inspektor
+9,Intendant,Intendantin bzw. Intendant
+9,Intendant,IntendantInnen
+9,Intendant,Intendanz
+9,jedermann,alle
+9,Kärntnern,Kärntnerinnen und Kärntnern
+9,Kartograf,Kartografin bzw. Kartograf
+9,Kassierer,KassiererInnen
+9,Kassierer,Kassiererinnen und Kassierer
+9,Kommissar,Kommissarin bzw. Kommissar
+9,Komponist,Komponistin bzw. Komponist
+9,Konsument,Konsumentin bzw. Konsument
+9,Künstlern,Künstlerinnen und Künstlern
+9,Kürschner,Kürschnerin bzw. Kürschner
+9,Kürschner,KürschnerInnen
+9,Kürschner,Kürschnerinnen und Kürschner
+9,Landsmann,Landsfrau bzw. -mann
+9,Lieferant,Lieferantin bzw. Lieferant
+9,Logopäden,LogopädInnen
+9,Logopäden,Logopädinnen und Logopäden
+9,Logopädin,Logopädin bzw. Logopäde
+9,Lokführer,Lokführerin bzw. Lokführer
+9,Lokführer,LokführerInnen
+9,Lokführer,Lokführerinnen und Lokführer
+9,Mandatare,MandatarInnen
+9,Mannjahre,Personenjahre
+9,Masseuren,Masseurinnen und Masseuren
+9,Mediziner,Medizinerin bzw. Mediziner
+9,Mediziner,MedizinerInnen
+9,Mediziner,Medizinerinnen und Mediziner
+9,Ministern,Ministerinnen und Ministern
+9,Mitbürger,Mitbürgerin bzw. Mitbürger
+9,Mitbürger,MitbürgerInnen
+9,Mitbürger,Mitbürgerinnen und Mitbürger
+9,Moderator,Moderation
+9,Moderator,Moderatorin bzw. Moderator
+9,Monteuren,Monteurinnen und Monteuren
+9,Oberärzte,Oberärztinnen und -ärzte
+9,Pädagogen,Pädagoginnen und Pädagogen
+9,Passanten,PassantInnen
+9,Passanten,Passantinnen und Passanten
+9,Patienten,Patientinnen und Patienten
+9,Physikern,PhysikerInnen
+9,Physikern,Physikerinnen und Physikern
+9,Politiker,Politikerin bzw. Politiker
+9,Politiker,PolitikerInnen
+9,Politiker,Politikerinnen und Politiker
+9,Präsident,Präsidentin bzw. Präsident
+9,Professor,Professorin und Professor
+9,Radfahrer,Radfahrerin bzw. Radfahrer
+9,Radfahrer,RadfahrerInnen
+9,Radfahrer,Radfahrerinnen und Radfahrer
+9,Redakteur,Redakteurin bzw. Redakteur
+9,Regisseur,Regisseurin bzw. Regisseur
+9,Revisoren,RevisorInnen
+9,Sanitäter,Sanitäterin bzw. Sanitäter
+9,Sanitäter,SanitäterInnen
+9,Sanitäter,Sanitäterinnen und Sanitäter
+9,Satiriker,Satirikerin bzw. Satiriker
+9,Satiriker,SatirikerInnen
+9,Satiriker,Satirikerinnen und Satiriker
+9,Schaffner,Schaffnerin bzw. Schaffner
+9,Schaffner,SchaffnerInnen
+9,Schaffner,Schaffnerinnen und Schaffner
+9,Schlosser,Schlosserin bzw. Schlosser
+9,Schlosser,SchlosserInnen
+9,Schlosser,Schlosserinnen und Schlosser
+9,Schneider,Schneiderin bzw. Schneider
+9,Schneider,SchneiderInnen
+9,Schneider,Schneiderinnen und Schneider
+9,Schreiber,Schreiberin bzw. Schreiber
+9,Schreiber,SchreiberInnen
+9,Schreiber,Schreiberinnen und Schreiber
+9,Schulwart,Schulwartin bzw. Schulwart
+9,Schustern,SchusterInnen
+9,Schustern,Schusterinnen und Schustern
+9,Seefahrer,Seeleute
+9,Sekretäre,Sekretärinnen und Sekretäre
+9,Sommelier,Sommelière bzw. Sommelier
+9,Souffleur,Souffleuse bzw. Souffleur
+9,Soziologe,Soziologin bzw. Soziologe
+9,Spenglern,SpenglerInnen
+9,Spenglern,Spenglerinnen und Spenglern
+9,Sponsoren,Sponsoring
+9,Sponsoren,SponsorInnen
+9,Sportlern,SportlerInnen
+9,Sportlern,Sportlerinnen und Sportlern
+9,Sprechern,SprecherInnen
+9,Sprechern,Sprecherinnen und Sprechern
+9,Stadträte,StadträtInnen
+9,Stadträte,Stadträtinnen und Stadträte
+9,Statikern,Statikerinnen und Statikern
+9,Steinmetz,Steinmetzin bzw. Steinmetz
+9,Studenten,StudentInnen
+9,Studenten,Studentinnen und Studenten
+9,Studenten,Studierende
+9,Teilhaber,Teilhaberin bzw. Teilhaber
+9,Teilhaber,TeilhaberInnen
+9,Teilhaber,Vertragspartei
+9,Therapeut,Therapeutin bzw. Therapeut
+9,Tierärzte,Tierärztinnen und Tierärzte
+9,Tischlern,Tischlerinnen und Tischlern
+9,Uhrmacher,Uhrmacherin bzw. Uhrmacher
+9,Uhrmacher,UhrmacherInnen
+9,Uhrmacher,Uhrmacherinnen und Uhrmacher
+9,unbemannt,maschinengesteuert; ferngesteuert
+9,Vaterland,Heimatland; Geburtsland
+9,Verfasser,Verfasserin bzw. Verfasser
+9,Verfasser,VerfasserInnen
+9,Verfasser,verfasst von
+9,Verkäufer,Verkäuferin bzw. Verkäufer
+9,Verkäufer,VerkäuferInnen
+9,Verkäufer,Verkäuferinnen und Verkäufer
+9,Verkäufer,Verkaufspersonal
+9,Verteiler,Verteilschlüssel
+9,Vertreter,vertreten durch
+9,Vertreter,VertreterInnen
+9,Vertreter,Vertreterinnen und Vertreter
+9,Vertreter,Vertretung
+9,Verwalter,Verwalterin und Verwalter
+9,Verwalter,VerwalterInnen
+9,Verwalter,Verwalterinnen und Verwalter
+9,Zuschauer,Publikum
+9,Zuschauer,Zuschauerin bzw. Zuschauer
+9,Zuschauer,ZuschauerInnen
+9,Zuschauer,Zuschauerinnen und Zuschauer
+10,Abonnenten,AbonnentInnen
+10,Abonnenten,Abonnentinnen und Abonnenten
+10,AHS-Lehrer,AHS-Lehrerin bzw. AHS-Lehrer
+10,AHS-Lehrer,AHS-LehrerInnen
+10,AHS-Lehrer,AHS-Lehrerinnen und AHS-Lehrer
+10,Amerikaner,Amerikanerin und Amerikaner
+10,Amerikaner,AmerikanerInnen
+10,Amerikaner,Amerikanerinnen und Amerikaner
+10,Amtsleiter,Amtsleiterin und Amtsleiter
+10,Amtsleiter,AmtsleiterInnen
+10,Amtsleiter,Amtsleiterinnen und Amtsleiter
+10,Analytiker,Analytikerin und Analytiker
+10,Analytiker,AnalytikerInnen
+10,Analytiker,Analytikerinnen und Analytiker
+10,Apothekern,Apothekerinnen und Apothekern
+10,Archivaren,Archivarinnen und Archivaren
+10,Aristokrat,Aristokratin und Aristokrat
+10,Arzthelfer,Arzthelferin und Arzthelfer
+10,Arzthelfer,ArzthelferInnen
+10,Arzthelfer,Arzthelferinnen und Arzthelfer
+10,Arztkosten,(ärztliche) Behandlungskosten
+10,Arzttermin,Behandlungstermin
+10,Astrologen,Astrologinnen und Astrologen
+10,Astronomen,Astronominnen und Astronomen
+10,Asylwerber,Asylsuchende
+10,Asylwerber,Asylwerberin und Asylwerber
+10,Asylwerber,AsylwerberInnen
+10,Asylwerber,Asylwerberinnen und Asylwerber
+10,Asylwerber,Personen im Asylverfahren
+10,Aussteller,Ausstellerin und Aussteller
+10,Aussteller,AusstellerInnen
+10,Aussteller,Ausstellerinnen und Aussteller
+10,Autofahrer,Autofahrerin und Autofahrer
+10,Autofahrer,AutofahrerInnen
+10,Autofahrer,Autofahrerinnen und Autofahrer
+10,Babysitter,Babysitterin bzw. Babysitter
+10,Bauwerbern,Bauwerberinnen und Bauwerbern
+10,Bearbeiter,Bearbeiterin bzw. Bearbeiter
+10,Bearbeiter,BearbeiterInnen
+10,Bearbeiter,Bearbeiterinnen und Bearbeiter
+10,Bearbeiter,bearbeitet von
+10,Begleitern,Begleiterinnen und Begleitern
+10,Beifahrern,Beifahrerinnen und Beifahrern
+10,Beteiligte,beteiligte Institutionen
+10,Beteiligte,Partei
+10,Beteiligte,Vertragspartei
+10,Betrachter,Betrachtende
+10,Bezirksrat,Bezirksrätin bzw. Bezirksrat
+10,Bierbrauer,Bierbrauerin und Bierbrauer
+10,Bierbrauer,BierbrauerInnen
+10,Bierbrauer,Bierbrauerinnen und Bierbrauer
+10,Bildhauern,Bildhauerinnen und Bildhauern
+10,Bregenzern,Bregenzerinnen und Bregenzern
+10,Buchbinder,Buchbinderin bzw. Buchbinder
+10,Buchbinder,Buchbinderin und Buchbinder
+10,Buchbinder,BuchbinderInnen
+10,Buchbinder,Buchbinderinnen und -binder
+10,Buchhalter,Buchhalterin bzw. Buchhalter
+10,Buchhalter,BuchhalterInnen
+10,Buchhalter,Buchhalterinnen und Buchhalter
+10,Bürohelfer,Bürohelferin bzw. -helfer
+10,Büroleiter,Büroleiterin bzw. -leiter
+10,Büroleiter,BüroleiterInnen
+10,Büroleiter,Büroleiterinnen und -leiter
+10,Chauffeure,LenkerInnen
+10,Controller,Controllerin bzw. Controller
+10,Controller,ControllerInnen
+10,Controller,Controllerinnen und Controller
+10,Dachdecker,Dachdeckerin und Dachdecker
+10,Dachdecker,DachdeckerInnen
+10,Dachdecker,Dachdeckerinnen und Dachdecker
+10,Diätologen,DiätologInnen
+10,Direktoren,DirektorInnen
+10,Dirigenten,DirigentInnen
+10,Dirigenten,Dirigentinnen und Dirigenten
+10,Drechslern,Drechslerinnen und Drechslern
+10,Eigentümer,(im) Eigentum von
+10,Eigentümer,EigentümerIn
+10,Eigentümer,Eigentümerin bzw. Eigentümer
+10,Einbringer,EinbringerInnen
+10,Einbringer,Einbringerinnen und Einbringer
+10,Einrichter,Einrichterin und Einrichter
+10,Einrichter,EinrichterInnen
+10,Einrichter,Einrichterinnen und Einrichter
+10,Einwohnern,Einwohnerinnen und Einwohnern
+10,Eisläufern,Eisläuferinnen und Eisläufern
+10,Elektriker,Elektrikerin bzw. Elektriker
+10,Elektriker,ElektrikerInnen
+10,Elektriker,Elektrikerinnen und Elektriker
+10,Entwickler,Entwicklerin bzw. Entwickler
+10,Entwickler,EntwicklerInnen
+10,Entwickler,Entwicklerinnen und Entwickler
+10,Ersatzmann,Ersatzperson
+10,Ersthelfer,Ersthelferin bzw. Ersthelfer
+10,Ersthelfer,ErsthelferInnen
+10,Fachmänner,Fachleute
+10,Fleischern,Fleischerinnen und Fleischern
+10,Fluglotsen,Fluglotsinnen und Fluglotsen
+10,Freigänger,Freigängerin bzw. Freigänger
+10,Freigänger,FreigängerInnen
+10,Freigänger,Freigängerinnen und Freigänger
+10,Glasbläser,Glasbläserin bzw. Glasbläser
+10,Glasbläser,GlasbläserInnen
+10,Glasbläser,Glasbläserinnen und Glasbläser
+10,Gymnasiast,Gymnasiastin bzw. Gymnasiast
+10,Hausfrauen,Hausfrauen und Hausmänner
+10,Haushälter,Haushälterin bzw. Haushälter
+10,Haushälter,HaushälterInnen
+10,Hersteller,Herstellende
+10,Hilfsköche,HilfsköchInnen
+10,Horthelfer,Horthelferin bzw. -helfer
+10,Horthelfer,HorthelferInnen
+10,HTL-Lehrer,HTL-Lehrerin bzw. HTL-Lehrer
+10,HTL-Lehrer,HTL-LehrerInnen
+10,HTL-Lehrer,HTL-Lehrerinnen und HTL-Lehrer
+10,Ingenieure,Ingenieurinnen und Ingenieure
+10,Inhabender,im Besitz von
+10,Inhabender,Inhabende bzw. Inhhabender
+10,Journalist,Journalistin bzw. Journalist
+10,Kartograph,Kartographin bzw. Kartograph
+10,Kassierern,Kassiererinnen und Kassierern
+10,Katholiken,Katholikinnen und Katholiken
+10,Kaufmänner,Kauffrauen und Kaufmänner
+10,Kaufmänner,Kaufleute
+10,Klubobmann,Klubobfrau bzw. -obmann
+10,Kommissare,Kommissarinnen und Kommissare
+10,Korbmacher,Korbmacherin bzw. Korbmacher
+10,Korbmacher,KorbmacherInnen
+10,Korbmacher,Korbmacherinnen und Korbmacher
+10,Kosmetiker,Kosmetikerin bzw. Kosmetiker
+10,Kosmetiker,Kosmetikerinnen und Kosmetiker
+10,Kürschnern,Kürschnerinnen und Kürschnern
+10,Laboranten,Laborantinnen und Laboranten
+10,Lehrerteam,Team der Unterrichtenden
+10,Liquidator,Liquidatorin bzw. Liquidator
+10,Logistiker,Logistikerin bzw. Logistiker
+10,Logistiker,LogistikerInnen
+10,Logistiker,Logistikerinnen und Logistiker
+10,Lokführern,Lokführerinnen und Lokführern
+10,Magazineur,Magazineurin bzw. Magazineur
+10,Mannmonate,Personenmonate
+10,Mannschaft,Belegschaft
+10,Mannschaft,Besatzung
+10,Mannschaft,Gruppe
+10,Mannschaft,Kollektiv
+10,Mannschaft,Team
+10,Mannstunde,Arbeitsstunde
+10,Mannstunde,Personenstunde
+10,Maschinist,Maschinistin bzw. Maschinist
+10,Maturanten,MaturantInnen
+10,Maturanten,Maturantinnen und Maturanten
+10,Mechaniker,Mechanikerin bzw. Mechaniker
+10,Mechaniker,MechanikerInnen
+10,Mechaniker,Mechanikerinnen und Mechaniker
+10,Medizinern,Medizinerinnen und Medizinern
+10,Mitbürgern,Mitbürgerinnen und Mitbürgern
+10,Ofensetzer,Ofensetzerin bzw. Ofensetzer
+10,Ofensetzer,OfensetzerInnen
+10,Ofensetzer,Ofensetzerinnen und Ofensetzer
+10,Ombudsmann,Ombudsfrau bzw. -mann
+10,Organisten,Organistinnen und Organisten
+10,Orthopäden,Orthopädinnen und Orthopäden
+10,Orthoptist,Orthoptistin bzw. Orthoptist
+10,Osttiroler,Osttirolerin bzw. Osttiroler
+10,Osttiroler,OsttirolerInnen
+10,Osttiroler,Osttirolerinnen und Osttiroler
+10,Pharmazeut,Pharmazeutin bzw. Pharmazeut
+10,Politikern,Politikerinnen und Politikern
+10,Polizisten,PolizistInnen
+10,Polizisten,Polizistinnen und Polizisten
+10,Praktikant,Praktikantin bzw. Praktikant
+10,Psychologe,Psychologin bzw. Psychologe
+10,Radfahrern,Radfahrerinnen und Radfahrern
+10,Redakteure,RedakteurInnen
+10,Redakteure,Redakteurinnen und Redakteure
+10,Referenten,ReferentInnen
+10,Referenten,Referentinnen und Referenten
+10,Sachwalter,Sachwalterin bzw. Sachwalter
+10,Sachwalter,SachwalterInnen
+10,Saisonnier,Saisonnière bzw. Saisonnier
+10,Salzburger,Salzburgerin bzw. Salzburger
+10,Salzburger,SalzburgerInnen
+10,Salzburger,Salzburgerinnen und Salzburger
+10,Sanitätern,Sanitäterinnen und Sanitätern
+10,Satirikern,Satirikerinnen und Satirikern
+10,Schaffnern,Schaffnerinnen und Schaffnern
+10,Schirmherr,gefördert von; unterstützt von
+10,Schirmherr,Schirmfrau bzw. Schirmherr
+10,Schlossern,Schlosserinnen und Schlossern
+10,Schneidern,Schneiderinnen und Schneidern
+10,Schreibern,Schreiberinnen und Schreibern
+10,Sekretären,Sekretärinnen und Sekretären
+10,Sekretärin,Sekretärin bzw. Sekretär
+10,Soziologen,Soziologinnen und Soziologen
+10,Spezialist,Spezialistin bzw. Spezialist
+10,Staatsmann,Staatsfrau bzw. Staatsmann
+10,Staatsmann,Staatsoberhaupt
+10,Stadträten,Stadträtinnen und Stadträten
+10,Steinmetze,Steinmetzinnen und Steinmetze
+10,Südtiroler,Südtirolerin bzw. Südtiroler
+10,Südtiroler,SüdtirolerInnen
+10,Südtiroler,Südtirolerinnen und Südtiroler
+10,Supervisor,Supervisorin bzw. Supervisor
+10,Taxifahrer,Taxifahrerin bzw. Taxifahrer
+10,Taxifahrer,TaxifahrerInnen
+10,Taxifahrer,Taxifahrerinnen und Taxifahrer
+10,Teamleiter,Teamleiterin bzw. Teamleiter
+10,Teamleiter,TeamleiterInnen
+10,Teamleiter,Teamleitung
+10,Technologe,Technologin bzw. Technologe
+10,Teilnehmer,Anmeldungen
+10,Teilnehmer,Anwesende
+10,Teilnehmer,Teilnehmende
+10,Teilnehmer,TeilnehmerIn
+10,Teilnehmer,Teilnehmerin bzw. Teilnehmer
+10,Teilnehmer,TeilnehmerInnen
+10,Teilnehmer,Teilnehmerinnen und Teilnehmer
+10,Telefonist,TelefonistInnen
+10,Telefonist,Telefonistinnen und Telefonisten
+10,Tierärzten,Tierärztinnen und Tierärzten
+10,übermannen,überkommen; überwältigen
+10,Übersetzer,Übersetzerin bzw. Übersetzer
+10,Übersetzer,ÜbersetzerInnen
+10,Uhrmachern,Uhrmacherinnen und Uhrmachern
+10,Verkäufern,Angestellten
+10,Verkäufern,Verkäuferinnen und Verkäufern
+10,Vermittler,Mittelsleute
+10,Vermittler,Mittelsperson
+10,Vermittler,Vermittlerin bzw. Vermittler
+10,Vermittler,VermittlerInnen
+10,Vertretern,Vertreterinnen und Vertretern
+10,Verwaltern,Verwalterinnen und Verwaltern
+10,Verwandter,Familienmitglied
+10,Zuarbeiter,Zuarbeiterin bzw. Zuarbeiter
+10,Zuschauern,Zuschauerinnen und Zuschauern
+11,Absolventen,AbsolventInnen
+11,Absolventen,Absolventinnen und Absolventen
+11,AHS-Lehrern,AHS-Lehrerinnen und AHS-Lehrern
+11,Alkoholiker,Suchtkranke
+11,Amerikanern,Amerikanerinnen und Amerikanern
+11,Amtsgehilfe,Amtsgehilfin und Amtsgehilfe
+11,Amtsleitern,Amtsleiterinnen und Amtsleitern
+11,Analytikern,Analytikerinnen und Analytikern
+11,Angehörigen,Familienmitgliedern
+11,Angehörigen,Verwandten
+11,Angehöriger,Angehörige bzw. Angehöriger
+11,Angehöriger,Familienmitglied
+11,Angeklagter,angeklagte Person
+11,Arbeitgeber,Arbeitgebende; Betriebe; Unternehmen
+11,Arbeitgeber,Arbeitgeberin und Arbeitgeber
+11,Arbeitgeber,ArbeitgeberInnen
+11,Arbeitgeber,Organisation der Arbeitsgebenden
+11,Architekten,Architektinnen und Architekten
+11,Arzthelfern,Arzthelferinnen und Arzthelfern
+11,Arztzeugnis,ärztliches Zeugnis
+11,Arztzeugnis,Krankheitsbescheinigung
+11,Arztzeugnis,Unfallbestätigung
+11,Assistenten,AssistentInnen
+11,Assistenten,Assistentinnen und Assistenten
+11,Asylwerbern,Asylwerberinnen und Asylwerbern
+11,Augenzeugen,Augenzeuginnen und Augenzeugen
+11,Ausstellern,Ausstellerinnen und Ausstellern
+11,Autofahrern,Autofahrerinnen und Autofahrern
+11,Bademeister,Bademeisterin und Bademeister
+11,Bademeister,BademeisterInnen
+11,Bademeister,Bademeisterinnen und Bademeister
+11,Bauarbeiter,Bauarbeiterin und Bauarbeiter
+11,Bauarbeiter,BauarbeiterInnen
+11,Bauarbeiter,Bauarbeiterinnen und Bauarbeiter
+11,Besitzender,im Besitz von
+11,Betriebsrat,Betriebsrätin bzw. Betriebsrat
+11,Bezirksräte,Bezirksrätinnen und Bezirksräte
+11,Bierbrauern,Bierbrauerinnen und Bierbrauern
+11,Buchhaltern,Buchhalterinnen und Buchhaltern
+11,Controllern,Controllerinnen und Controllern
+11,Dachdeckern,Dachdeckerinnen und Dachdeckern
+11,Delegierten,Delegiertinnen und Delegierte
+11,Dezernenten,DezernentInnen
+11,Dienstgeber,Dienstgeberin bzw. Dienstgeber
+11,Dienstgeber,DienstgeberInnen
+11,Dienstgeber,Dienstgeberinnen und Dienstgeber
+11,Dolmetscher,Dolmetscherin bzw. Dolmetscher
+11,Dolmetscher,DolmetscherInnen
+11,Einrichtern,Einrichterinnen und Einrichtern
+11,Einwanderer,Einwanderin bzw. Einwanderer
+11,Elektrikern,Elektrikerinnen und Elektrikern
+11,Evaluatoren,EvaluatorInnen
+11,Evaluatoren,Evaluierungsteam
+11,Fachgehilfe,Fachgehilfin bzw. -gehilfe
+11,Freigängern,Freigängerinnen und Freigängern
+11,Funktionäre,Funktionärin bzw. Funktionär
+11,Funktionäre,Funktionärinnen und Funktionäre
+11,Garderobier,Gaderobiere und Garderobier
+11,Genforscher,Genforscherin bzw. -forscher
+11,Genforscher,GenforscherInnen
+11,Genforscher,Genforscherinnen und Genforscher
+11,Gesetzgeber,Gesetzgebende
+11,Gesetzgeber,gesetzgebende Instanz
+11,Gesetzgeber,Legislative
+11,Glasbläsern,Glasbläserinnen und Glasbläsern
+11,Hausmeister,Hausmeisterin bzw. Hausmeister
+11,Hausmeister,HausmeisterInnen
+11,Hausmeister,Hausmeisterinnen und Hausmeister
+11,Heilmasseur,Heilmasseurin bzw.-masseur
+11,Herausgeber,Herausgeberin bzw. Herausgeber
+11,Herausgeber,herausgegeben von
+11,HTL-Lehrern,HTL-Lehrerinnen und HTL-Lehrern
+11,Infomanager,Infomanagerin bzw. -manager
+11,Infomanager,InfomanagerInnen
+11,Ingenieuren,Ingenieurinnen und Ingenieure
+11,Innsbrucker,Innsbruckerin bzw. Innsbrucker
+11,Innsbrucker,InnsbruckerInnen
+11,Innsbrucker,Innsbruckerinnen und Innsbrucker
+11,Inspektoren,InspektorInnen
+11,Interviewer,Interviewende
+11,Kabarettist,Kabarettistin und Kabarettist
+11,Kartografen,KartografInnen
+11,Kommissaren,Kommissarinnen und Kommissaren
+11,Komponisten,Komponistinnen und Komponisten
+11,Konsumenten,KonsumentInnen
+11,Konsumenten,Konsumentinnen und Konsumenten
+11,Konsumenten,Kundschaft
+11,Kontrolleur,Kontrolleurin bzw. Kontrolleur
+11,Koordinator,Koordinatorin bzw. Koordinator
+11,Kosmetikern,Kosmetikerinnen und Kosmetikern
+11,Kraftfahrer,Kraftfahrerin bzw. Kraftfahrer
+11,Kraftfahrer,KraftfahrerInnen
+11,Kraftfahrer,Kraftfahrerinnen und Kraftfahrer
+11,Kubobmänner,Klubobleute
+11,Lagerleiter,Lagerleiterin bzw. -leiter
+11,Lagerleiter,Lagerleitung
+11,Lieferanten,LieferantInnen
+11,Lieferanten,Lieferfirma
+11,Logistikern,Logistikerinnen und Logistikern
+11,Mädchenname,Geburtsname
+11,Magazineure,MagazineurInnen
+11,Mechanikern,Mechanikerinnen und Mechanikern
+11,Mitarbeiter,Angestellten
+11,Mitarbeiter,Belegschaft
+11,Mitarbeiter,Mitarbeiterin bzw. Mitarbeiter
+11,Mitarbeiter,MitarbeiterInnen
+11,Mitarbeiter,Mitarbeiterinnen und Mitarbeiter
+11,Mitarbeiter,Personal
+11,Mitarbeiter,Team
+11,Mitbewohner,Mitbewohnerin bzw. Mitbewohner
+11,Mitbewohner,MitbewohnerInnen
+11,Mitbewohner,Mitbewohnerinnen und Mitbewohner
+11,Moderatoren,Moderatorinnen und Moderatoren
+11,Motorführer,Motorführerinnen und Motorführer
+11,Obermonteur,Obermonteurin bzw. -monteur
+11,Ofensetzern,Ofensetzerinnen und Ofensetzern
+11,Organisator,Organisationskomitee
+11,Organisator,Organisierende
+11,Organisator,organisiert von
+11,Osteuropäer,Osteuropäerin bzw. Osteuropäer
+11,Osteuropäer,OsteuropäerInnen
+11,Osteuropäer,Osteuropäerinnen und Osteuropäer
+11,Osttirolern,Osttirolerinnen und Osttirolern
+11,Preisträger,Geehrte
+11,Preisträger,Preisträgerin bzw. Preisträger
+11,Professoren,Professorinnen und Professoren
+11,Psychologen,Psychologinnen und Psychologen
+11,Redakteuren,Redakteurinnen und Redakteuren
+11,Restaurator,Restauratorin bzw. Restaurator
+11,Salzburgern,Salzburgerinnen und Salzburgern
+11,SAP-KeyUser,SAP-KeyUserin bzw. -KeyUser
+11,Schuhmacher,SchuhmacherInnen
+11,Schuhmacher,Schuhmacherinnen und Schuhmacher
+11,Sportlehrer,Sportlehrerin bzw. Sportlehrer
+11,Stakeholder,Interessensgruppe
+11,Stakeholder,Stakeholderin bzw. Stakeholder
+11,Stakeholder,StakeholderInnen
+11,Stakeholder,Stakeholderinnen und Stakeholder
+11,Steinmetzen,Steinmetzinnen und Steinmetzen
+11,Südeuropäer,Südeuropäerin bzw. Südeuropäer
+11,Südeuropäer,SüdeuropäerInnen
+11,Südeuropäer,Südeuropäerinnen und Südeuropäer
+11,Südtirolern,Südtirolerinnen und Südtirolern
+11,Taxifahrern,Taxifahrerinnen und Taxifahrern
+11,Technologen,Technologinnen und Technologen
+11,Therapeuten,Therapeutinnen und Therapeuten
+11,Tierpfleger,Tierpflegerin bzw. Tierpfleger
+11,Tierpfleger,TierpflegerInnen
+11,Tierpfleger,Tierpflegerinnen und Tierpfleger
+11,Unternehmer,Selbstständige; Wirtschaftstreibende; Geschäftsleute
+11,Unternehmer,Unternehmerin bzw. Unternehmer
+11,Unternehmer,UnternehmerInnen
+11,Unternehmer,Unternehmerinnen und Unternehmer
+11,Verbraucher,Verbraucherin bzw. Verbraucher
+11,Verbraucher,VerbraucherInnen
+11,Verteidiger,Rechtsvertretung
+11,Verteidiger,Verteidigung
+11,Verteidiger,Verteidigung; Rechtsvertretung
+11,Vorarbeiter,Vorarbeiterin bzw. Vorarbeiter
+11,Vorarbeiter,VorarbeiterInnen
+11,Vorarbeiter,Vorarbeiterinnen und Vorarbeiter
+11,Werkmeister,Werkmeisterin bzw. Werkmeister
+11,Werkmeister,WerkmeisterInnen
+11,Wohnberater,Wohnberaterin bzw. Wohnberater
+11,Zivilkläger,Zivilpartei
+12,Altenpfleger,Altenpflegerin und Altenpfleger
+12,Altenpfleger,AltenpflegerInnen
+12,Altenpfleger,Altenpflegerinnen und Altenpfleger
+12,Altenpfleger,Pflegepersonal
+12,Amtsgehilfen,AmtsgehilfInnen
+12,Amtsgehilfen,Amtsgehilfinnen und Amtsgehilfen
+12,Amtshauswart,Amtshauswartin bzw. Amtshauswart
+12,Amtstierarzt,Amtstierärztin bzw. Amtstierarzt
+12,Anfängerkurs,Einstiegskurs
+12,Anfängerkurs,Grundkurs
+12,Angestellter,Angestellte bzw. Angestellter
+12,Angestellter,Belegschaft
+12,Angestellter,Personal
+12,Anthropologe,Anthropologin und Anthropologe
+12,Arbeitnehmer,Arbeitnehmerin bzw. Arbeitnehmer
+12,Arbeitnehmer,ArbeitnehmerInnen
+12,Archivleiter,Archivleiterin bzw. Archivleiter
+12,Archivleiter,Archivleitung
+12,Aristokraten,Aristokratinnen und Aristokraten
+12,Auftraggeber,Auftraggeberin bzw. Auftraggeber
+12,Auftraggeber,AuftraggeberInnen
+12,Auftraggeber,Auftraggeberinnen und Auftraggeber
+12,Bademeistern,Bademeisterinnen und Bademeistern
+12,Bakkalaureus,Bakkalaurea bzw. Bakkalaureus
+12,Bauarbeitern,Bauarbeiterinnen und Bauarbeitern
+12,Bauingenieur,Bauingenieurin bzw. Bauingenieur
+12,Bediensteter,Bedienstete bzw. Bediensteter
+12,Beschäftigte,Angestellten
+12,Beschäftigte,Belegschaft
+12,Beschäftigte,MitarbeiterInnen
+12,Beschäftigte,Personal
+12,Betriebsarzt,Betriebsärztin bzw. Betriebsarzt
+12,Betriebsräte,Betriebsrätinnen und Betriebsräte
+12,Bibliothekar,Bibliothekarin und Bibliothekar
+12,Börsenmakler,Börsenmaklerin und Börsenmakler
+12,Börsenmakler,BörsenmaklerInnen
+12,Börsenmakler,Börsenmaklerinnen und Börsenmakler
+12,Burgenländer,Burgenländerin und Burgenländer
+12,Burgenländer,BurgenländerInnen
+12,Burgenländer,Burgenländerinnen und Burgenländer
+12,Bürgerdienst,Service für Bürgerinnen und Bürger
+12,Bürokaufmann,Bürokauffrau bzw. -kaufmann
+12,Dienstnehmer,Dienstnehmerin bzw. Dienstnehmer
+12,Dienstnehmer,DienstnehmerInnen
+12,Dienstnehmer,Dienstnehmerinnen und Dienstnehmer
+12,Eisenstädter,Eisenstädterin und Eisenstädter
+12,Eisenstädter,EisenstädterInnen
+12,Eisenstädter,Eisenstädterinnen und Eisenstädter
+12,Ersatzmänner,Ersatzmitglieder
+12,Expertenjury,ExpertInnenjury
+12,Facharbeiter,Facharbeiterin bzw. Facharbeiterin
+12,Facharbeiter,FacharbeiterInnen
+12,Fachgehilfen,Fachgehilfinnen und Fachgehilfen
+12,fachmännisch,fachkundig
+12,Fachreferent,Fachreferentin bzw. Fachreferent
+12,Fleischhauer,Fleischhauerin bzw. Fleischhauer
+12,Fleischhauer,FleischhauerInnen
+12,Fleischhauer,Fleischhauerinnen und Fleischhauer
+12,Fliesenleger,Fliesenlegerin und Fliesenleger
+12,Fliesenleger,FliesenlegerInnen
+12,Fliesenleger,Fliesenlegerinnen und Fliesenleger
+12,Fördernehmer,Fördernehmerin bzw. Fördernehmer
+12,Fördernehmer,FördernehmerInnen
+12,Fördernehmer,Fördernehmerinnen und Fördernehmer
+12,Forscherteam,Forschungsteam
+12,Friseurinnen,Friseurinnen und Friseure
+12,Funktionären,Funktionärinnen und Funktionären
+12,Genforschern,Genforscherinnen und Genforschern
+12,Gymnasiasten,Gymnasiastinnen und Gymnasiasten
+12,Gymnasiasten,SchülerInnen
+12,Hausarbeiter,Hausarbeiterin bzw.- arbeiter
+12,Hausarbeiter,HausarbeiterInnen
+12,Haushälterin,Haushälterin bzw. Haushälter
+12,Hausmeistern,Hausmeisterinnen und Hausmeistern
+12,Heilmasseure,HeilmasseurInnen
+12,Heimhelferin,Heimhelferin bzw. -helfer
+12,Horthelferin,Horthelferin bzw. -helfer
+12,IKT-Referent,IKT-Referentin bzw. -referent
+12,Informatiker,Informatikerin bzw. Informatiker
+12,Informatiker,InformatikerInnen
+12,Informatiker,Informatikerinnen und Informatiker
+12,Installateur,Installateurin bzw. Installateur
+12,Jobsuchender,auf Jobsuche
+12,Jobsuchender,Jobsuchende bzw. Jobsuchender
+12,Journalisten,JournalistInnen
+12,Journalisten,Journalistinnen und Journalisten
+12,Kameramänner,Kamerateam
+12,Kartographen,KartographInnen
+12,Klagenfurter,Klagenfurterin bzw. Klagenfurter
+12,Klagenfurter,KlagenfurterInnen
+12,Klagenfurter,Klagenfurterinnen und Klagenfurter
+12,Klubdirektor,Klubdirektorin bzw.- Klubdirektor
+12,Kraftfahrern,Kraftfahrerinnen und Kraftfahrern
+12,Küchenleiter,Küchenleiterin bzw. -leiter
+12,Kundendienst,Auskunftsstelle
+12,Kundendienst,Serviceabteilung
+12,Kundenmagnet,Anziehungspunkt
+12,Laborgehilfe,Laborgehilfin bzw. -gehilfe
+12,Laborgehilfe,Laborgehilfin bzw. Laborgehilfe
+12,Ladeninhaber,Ladeninhaberin und Ladeninhaber
+12,Ladeninhaber,LadeninhaberInnen
+12,Ladeninhaber,Ladeninhaberinnen und Ladeninhaber
+12,Lehrerstelle,Stelle der Lehrerinnen und Lehrer
+12,Liquidatoren,LiquidatorInnen
+12,Liquidatoren,Liquidatorinnen und Liquidatoren
+12,Mannschaften,Gruppen
+12,Mannschaften,Teams
+12,Marktgehilfe,Marktgehilfin bzw. -gehilfe
+12,Marktmeister,Marktmeisterin bzw. -meister
+12,Marktmeister,MarktmeisterInnen
+12,Maschinisten,MaschinistInnen
+12,Maschinisten,Maschinistinnen und Maschinisten
+12,Mathematiker,Mathematikerin bzw. Mathematiker
+12,Mathematiker,MathematikerInnen
+12,Mathematiker,Mathematikerinnen und Mathematiker
+12,Mitarbeitern,Mitarbeiterinnen und Mitarbeitern
+12,Mitbewohnern,Mitbewohnerinnen und Mitbewohnern
+12,Müllaufleger,Müllauflegerin bzw. -aufleger
+12,Namensvetter,Gleichnamige
+12,Nordeuropäer,Nordeuropäerin bzw. Nordeuropäer
+12,Nordeuropäer,NordeuropäerInnen
+12,Nordeuropäer,Nordeuropäerinnen und Nordeuropäer
+12,Notarhonorar,Honorar von Notarinnen und Notaren
+12,Oberaufseher,Oberaufseherin bzw. -aufseher
+12,Objektleiter,Objektleiterin bzw. -leiter
+12,Ombudsmänner,Ombudsleute
+12,Orthoptisten,OrthoptistInnen
+12,Österreicher,Österreicherin bzw. Österreicher
+12,Österreicher,ÖsterreicherInnen
+12,Österreicher,Österreicherinnen und Österreicher
+12,Osteuropäern,Osteuropäerinnen und Osteuropäern
+12,Partieführer,Partieführerin bzw. Partieführer
+12,Partieführer,PartieführerInnen
+12,Pflegehelfer,Pflegehelferin bzw. -helfer
+12,Pharmazeuten,Pharmazeutinnen und Pharmazeuten
+12,Platzmeister,Platzmeisterin bzw. -meister
+12,Praktikanten,Praktikantinnen und Praktikanten
+12,Raucherpause,Zigarettenpause
+12,Rechtsanwalt,Rechtsanwältin bzw. Rechtsanwalt
+12,Repräsentant,Repräsentantin bzw. Repräsentant
+12,Rezeptionist,Rezeptionistin bzw. Rezeptionist
+12,Schauspieler,Schauspielerin bzw. Schauspieler
+12,Schauspieler,SchauspielerInnen
+12,Schauspieler,Schauspielerinnen und Schauspieler
+12,Schirmherren,Schirmfrauen und Schirmherren
+12,Schuhmachern,Schuhmacherinnen und Schuhmachern
+12,Sektionschef,Sektionschefin bzw. Sektionschef
+12,Spezialisten,Spezialistinnen und Spezialisten
+12,Staatsbürger,Staatsbürgerin bzw. Staatsbürger
+12,Staatsbürger,StaatsbürgerInnen
+12,Staatsbürger,Staatsbürgerinnen und Staatsbürger
+12,Steuerzahler,Steuerzahlende
+12,Steuerzahler,Steuerzahlerin bzw. Steuerzahler
+12,Steuerzahler,SteuerzahlerInnen
+12,Steuerzahler,Steuerzahlerinnen und Steuerzahler
+12,Südeuropäern,Südeuropäerinnen und Südeuropäern
+12,Supervisoren,SupervisorInnen
+12,Telefonistin,Telefonistin bzw. Telefonist
+12,Tierpflegern,Tierpflegerinnen und Tierpflegern
+12,Umweltanwalt,Umweltanwältin bzw. -anwalt
+12,Unternehmern,Unternehmerinnen und Unternehmern
+12,Urheberrecht,Copyright
+12,Veranstalter,veranstaltet durch; veranstaltet von
+12,Vorarlberger,Vorarlbergerin bzw. Vorarlberger
+12,Vorarlberger,VorarlbergerInnen
+12,Vorarlberger,Vorarlbergerinnen und Vorarlberger
+12,Vorgesetzter,Führungskraft
+12,Vorgesetzter,Vorgesetzte und Vorgesetzer
+12,Vorsitzender,unter dem Vorsitz von
+12,Vorsitzender,Vorsitzende bzw. Vorsitzender
+12,Vorsitzender,Vorsitzführung
+12,Westeuropäer,Westeuropäerin bzw. Westeuropäer
+12,Westeuropäer,WesteuropäerInnen
+12,Westeuropäer,Westeuropäerinnen und Westeuropäer
+12,Wettbewerber,Wettbewerberin bzw. Wettbewerber
+12,Wettbewerber,WettbewerberInnen
+12,Wettbewerber,Wettbewerberinnen und Wettbewerber
+12,Wirtschafter,Wirtschafterin bzw. Wirtschafter
+12,Zimmermänner,Zimmerleute
+12,Zugbegleiter,Zugbegleiterin bzw. Zugbegleiter
+12,Zugbegleiter,ZugbegleiterInnen
+12,Zugbegleiter,Zugbegleiterinnen und Zugbegleiter
+13,Abfallmanager,Abfallmanagerin und Abfallmanager
+13,Abfallmanager,AbfallmanagerInnen
+13,Administrator,Administratorin bzw. Administrator
+13,Administrator,Administratorin und Administrator
+13,Altenpflegern,Altenpflegerinnen und Altenpflegern
+13,Altenpflegern,Pflegepersonal
+13,Anthropologen,Anthropologinnen und Anthropologen
+13,Antragsteller,Antrag gestellt von
+13,Antragsteller,Antragstellerin bzw. Antragsteller
+13,Antragsteller,AntragstellerInnen
+13,Antragsteller,ich beantrage
+13,Anwaltskosten,Kosten für die Rechtsvertretung
+13,Archivgehilfe,Archivgehilfin bzw. Archivgehilfe
+13,Arztgeheimnis,Berufsgeheimnis
+13,Arztgeheimnis,Schweigepflicht der Ärztin
+13,Arztgeheimnis,Schweigepflicht des Arztes
+13,Assistenzarzt,Assistenzärztin bzw. Assistenzarzt
+13,Auftragnehmer,Auftragnehmerin bzw. Auftragnehmer
+13,Auftragnehmer,AuftragnehmerInnen
+13,Auftragnehmer,Auftragnehmerinnen und Auftragnehmer
+13,Bauingenieure,Bauingenieurinnen und Bauingenieure
+13,Bauinspizient,Bauinspizientin bzw. Bauinspizient
+13,Bauinspizient,Bauinspizientin und Bauinspizient
+13,Beifahrersitz,Beifahrsitz
+13,Beschuldigter,beschuldigte Person
+13,Betriebsärzte,BetriebsärztInnen
+13,Betriebsärzte,Betriebsärztinnen und Betriebsärzte
+13,Bibliothekare,BibliothekarInnen
+13,Bibliothekare,Bibliothekarinnen und Bibliothekare
+13,Börsenmaklern,Börsenmaklerinnen und Börsenmaklern
+13,Branddirektor,Branddirektor bzw. -direktorin
+13,Branddirektor,Branddirektorin bzw. Branddirektor
+13,Burgenländern,Burgenländerinnen und Burgenländern
+13,Bürgermeister,Bürgermeisterin bzw. Bürgermeister
+13,Bürgermeister,BürgermeisterInnen
+13,Bürgermeister,Bürgermeisterinnen und Bürgermeister
+13,Chefredakteur,Chefredakteurin bzw. - redakteur
+13,Demonstranten,Demonstrierende
+13,Dienstleister,Dienstleisterin bzw. Dienstleister
+13,Dienstleister,DienstleisterInnen
+13,Dienstleister,Dienstleisterinnen und Dienstleister
+13,Eisenstädtern,Eisenstädterinnen und Eisenstädtern
+13,Ergotherapeut,Ergotherapeutin bzw. Ergotherapeut
+13,Fachassistent,Fachassistentin bzw. Fachassistent
+13,Fachassistent,Fachassistenz
+13,Feuerwehrmann,Feuerwehrfrau bzw. Feuerwehrmann
+13,Filmvorführer,Filmvorführerin bzw. Filmvorführer
+13,Filmvorführer,FilmvorführerInnen
+13,Fleischhauern,Fleischhauerinnen und Fleischhauern
+13,Fliesenlegern,Fliesenlegerinnen und Fliesenlegern
+13,Fremdenführer,Fremdenführerin bzw. Fremdenführer
+13,Fremdenführer,FremdenführerInnen
+13,Fußgängerzone,autofreie Zone
+13,Fußgängerzone,verkehrsarme Zone
+13,Fußgängerzone,verkehrsfreie Zone
+13,Gruppenleiter,Gruppenleiterin bzw. -leiter
+13,Gruppenleiter,GruppenleiterInnen
+13,Gruppenleiter,Gruppenleitung
+13,Hausinspektor,Hausinspektorin bzw. Hausinspektor
+13,Informatikern,Informatikerinnen und Informatikern
+13,Installateure,Installateurinnen und Installateure
+13,Interessenten,Interessierte
+13,Journalleiter,Journalleiterin bzw. -leiter
+13,Journalleiter,JournalleiterInnen
+13,Kabarettisten,Kabarettistinnen und Kaberettisten
+13,Kanalarbeiter,Kanalarbeiterin bzw. -arbeiter
+13,Kanalarbeiter,KanalarbeiterInnen
+13,Kanzleileiter,Kanzleileiterin bzw.- leiter
+13,Kindergärtner,Kindergartenpädagoginnen und Kindergartenpädagogen
+13,Klagenfurtern,Klagenfurterinnen und Klagenfurtern
+13,Koordinatoren,KoordinatorInnen
+13,KTH-Inspektor,KTH-Inspektorin bzw. KTH-Inspektor
+13,Küchengehilfe,Küchengehilfin bzw. -gehilfe
+13,kundenbezogen,bezogen auf die Kundschaft
+13,Kundenwerbung,Akquisition
+13,Laborgehilfen,LaborgehilfInnen
+13,Ladeninhabern,Ladeninhaberinnen und Ladeninhabern
+13,Mathematikern,Mathematikerinnen und Mathematikern
+13,Mechatroniker,Mechatronikerin bzw. Mechatroniker
+13,Mechatroniker,MechatronikerInnen
+13,Mechatroniker,Mechatronikerinnen und Mechatroniker
+13,Medienpartner,in Medienpartnerschaft mit
+13,Muttersprache,Erstsprache
+13,Nordeuropäern,Nordeuropäerinnen und Nordeuropäern
+13,Notarzthelfer,Notarzthelferin bzw. Notarzthelfer
+13,Notarzthelfer,NotarzthelferInnen
+13,Notarzthelfer,Notarzthelferinnen und Notarzthelfer
+13,Oberpflegerin,Oberpflegerin bzw. -pfleger
+13,Oberschwester,Oberschwester bzw. Oberpfleger
+13,Organisatorin,Organisatorin bzw. Organisator
+13,Organisatorin,Organisierende
+13,Österreichern,Österreicherinnen und Österreichern
+13,Programmierer,Programmiererin bzw. Programmierer
+13,Programmierer,ProgrammiererInnen
+13,Programmierer,Programmiererinnen und Programmierer
+13,Projektleiter,Leitung
+13,Projektleiter,Projektleitung
+13,Raumpflegerin,Reinigungskraft
+13,Rechtsanwälte,Rechtsanwältinnen und Rechtsanwälte
+13,Restauratoren,RestauratorInnen
+13,Restauratoren,Restauratorinnen und Restauratoren
+13,Schauspielern,SchauspielerInnen
+13,Schauspielern,Schauspielerinnen und Schauspielern
+13,Schriftführer,Schriftführerin bzw. Schriftführer
+13,Schriftführer,SchriftführerInnen
+13,Schulsprecher,Schulsprecherin bzw. Schulsprecher
+13,Schulsprecher,SchulsprecherInnen
+13,Schulsprecher,Schulsprecherinnen und Schulsprecher
+13,Seminarleiter,Seminarleitung
+13,Sponsorgelder,Sponsoringgelder
+13,Staatsbürgern,Staatsbürgerinnen und Staatsbürgern
+13,Stadtschulrat,Stadtschulrätin bzw. Stadtschulrat
+13,Südamerikaner,Südamerikanerin bzw. Südamerikaner
+13,Südamerikaner,SüdamerikanerInnen
+13,Südamerikaner,Südamerikanerinnen und Südamerikaner
+13,Teamassistent,Teamassistentin bzw. -assistent
+13,Teamassistent,Teamassistenz
+13,Traktorführer,Traktorführerin bzw. Traktorführer
+13,Umweltanwälte,Umweltanwältinnen bzw. -anwälte
+13,Unteroffizier,Unteroffizierin bzw. Unteroffizier
+13,Vereinsobmann,Vereinsobfrau bzw. -obmann
+13,Verlagsführer,Verlagsführerin bzw. Verlagsführer
+13,Verlagsführer,VerlagsführerInnen
+13,VIPER-KeyUser,VIPER-KeyUserin bzw. VIPER-KEYUser
+13,Vizepräsident,Vizepräsidentin bzw. Vizepräsident
+13,Vorarlbergern,Vorarlbergerinnen und Vorarlbergern
+13,Westeuropäern,Westeuropäerinnen und Westeuropäern
+13,Wettbewerbern,Wettbewerberinnen und Wettbewerbern
+13,Zahntechniker,Zahntechnikerin bzw. Zahntechniker
+13,Zugbegleitern,Zugbegleiterinnen und Zugbegleitern
+14,Abfallmanagern,Abfallmanagerinnen und Abfallmanagern
+14,Altersforscher,Altersforscherin und Altersforscher
+14,Altersforscher,AltersforscherInnen
+14,Altersforscher,Altersforscherinnen und Altersforscher
+14,Anlagebesitzer,Anlagebesitzende
+14,Antragssteller,AntragsstellerInnen
+14,Antragssteller,Antragsstellerinnen und Antragssteller
+14,Anwaltshonorar,Honorar von Anwältinnen und Anwälten
+14,Arbeiternehmer,ArbeitnehmerInnen
+14,Arbeiternehmer,Belegschaft
+14,Arbeiternehmer,Beschäftigte
+14,Arbeitskollege,Arbeitskollegin und Arbeitskollege
+14,Archivgehilfen,Archivgehilfinnen und -gehilfen
+14,Ausländerfrage,Migrationsthematik
+14,Autoelektriker,Autoelektrikerin und Autoelektriker
+14,Autoelektriker,AutoelektrikerInnen
+14,Autoelektriker,Autoelektrikerinnen und Autoelektriker
+14,Automechaniker,Automechanikerin und Automechaniker
+14,Automechaniker,AutomechanikerInnen
+14,Automechaniker,Automechanikerinnen und Automechaniker
+14,Bankkaufmänner,Bankkauffrauen und Bankkaufmänner
+14,Bauingenieuren,Bauingenieurinnen und Bauingenieuren
+14,Benutzerprofil,BenutzerInnenprofil
+14,Benutzerprofil,Benutzerinnenprofil und Benutzerprofil
+14,Bereichsleiter,Bereichsleiterin bzw. Bereichsleiter
+14,Bereichsleiter,BereichsleiterInnen
+14,Bereichsleiter,Bereichsleitung
+14,Besuchergruppe,Besuchsgruppe
+14,Betriebsleiter,Betriebsleiterin bzw. -leiter
+14,Betriebsleiter,Betriebsleitung
+14,Betriebsprüfer,Betriebsprüferin bzw. Betriebsprüfer
+14,Betriebsprüfer,BetriebsprüferInnen
+14,Betriebsprüfer,Betriebsprüferinnen und Betriebsprüfer
+14,Bewerberzahlen,Bewerbungszahlen
+14,Bibliothekaren,Bibliothekarinnen und Bibliothekaren
+14,Brüderlichkeit,Solidarität
+14,Budgetreferent,Budgetreferentin bzw. -referent
+14,Bürgermeistern,Bürgermeisterinnen und Bürgermeistern
+14,Bürokaufmänner,Bürokaufleute
+14,Chefsekretärin,Chefsekretärin bzw. -sekretär
+14,Einsteigerkurs,Basiskurs
+14,Einsteigerkurs,Einstiegskurs
+14,Einsteigerkurs,Grundkurs
+14,Elektromonteur,Elektromonteurin und Elektromonteur
+14,Europareferent,Europareferentin bzw. -referent
+14,Expertentagung,Fachtagung
+14,Expertenwissen,Fachwissen
+14,Expertenwissen,Fachwissen; Expertise
+14,Fachreferenten,FachreferentInnen
+14,Finanzreferent,Finanzreferentin bzw. Finanzreferent
+14,Fußballspieler,Fußballspielende
+14,Garagenmeister,GaragenmeisterIn
+14,Garagenmeister,Garagenmeisterin bzw. -meister
+14,Garagenmeister,GaragenmeisterInnen
+14,Geschäftsfüher,Geschäftsführung; Geschäftsleitung
+14,Gesellschafter,Betriebsgesellschaft
+14,Gesellschafter,Gesellschafterin bzw. Gesellschafter
+14,Gesellschafter,GesellschafterInnen
+14,Gesellschafter,Gesellschafterinnen und Gesellschafter
+14,Gewerkschafter,Gewerkschafterin bzw. Gewerkschafter
+14,Gewerkschafter,GewerkschafterInnen
+14,Gewerkschafter,Gewerkschafterinnen und Gewerkschafter
+14,IKT-Referenten,IKT-ReferentInnen
+14,Installateuren,Installateurinnen und Installateure
+14,Inventarführer,Inventarführende
+14,Inventarführer,Inventarführerin bzw. Inventarführer
+14,Inventarführer,InventarführerInnen
+14,IT-Organisator,IT-Organisatorin bzw. IT-Organisator
+14,Kinderfacharzt,Kinderfachärztin bzw. -facharzt
+14,Krankenpfleger,Krankenpflegerin bzw. Krankenpfleger
+14,Krankenpfleger,KrankenpflegerInnen
+14,Krankenpfleger,Krankenpflegerinnen und Krankenpfleger
+14,Krankenpfleger,Pflegepersonal
+14,Lebensgefährte,Lebensgefährtin bzw. Lebensgefährte
+14,Lenkererhebung,Erhebung der Lenkerin bzw. des Lenkers
+14,Lungenfacharzt,Lungenfachärztin bzw. -facharzt
+14,Masseverwalter,Masseverwalterin und Masseverwalter
+14,Masseverwalter,MasseverwalterInnen
+14,Masseverwalter,Masseverwalterinnen und Masseverwalter
+14,Mechatronikern,Mechatronikerinnen und Mechatronikern
+14,Mediensprecher,Mediensprecherin bzw. -sprecher
+14,Mediensprecher,MediensprecherInnen
+14,Metallarbeiter,Metallarbeiterin bzw. Metallarbeiter
+14,Metallarbeiter,MetallarbeiterInnen
+14,Metallarbeiter,Metallarbeiterinnen und Metallarbeiter
+14,Mitteleuropäer,Mitteleuropäerin bzw. Mitteleuropäer
+14,Mitteleuropäer,MitteleuropäerInnen
+14,Mitteleuropäer,Mitteleuropäerinnen und Mitteleuropäer
+14,Motorradfahrer,MotorradfahrerInnen
+14,Motorradfahrer,Motorradfahrerinnen und Motorradfahrer
+14,Motorradführer,Motorradführerin bzw. -führer
+14,Musiktherapeut,Musiktherapeutin bzw. -therapeut
+14,Nordamerikaner,Nordamerikanerin bzw. Nordamerikaner
+14,Nordamerikaner,NordamerikanerInnen
+14,Nordamerikaner,Nordamerikanerinnen und Nordamerikaner
+14,Notarzthelfern,Notarzthelferinnen und Notarzthelfern
+14,Obermagazineur,Obermagazineurin bzw. -magazineur
+14,Oberstudienrat,Oberstudienrätin und Oberstudienrat
+14,Parlamentarier,Parlamentarierin bzw. Parlamentarier
+14,Parlamentarier,ParlamentarierInnen
+14,Parlamentarier,Parlamentarierinnen und Parlamentarier
+14,Pressereferent,Pressereferentin bzw. -referent
+14,Programmierern,Programmiererinnen und Programmierern
+14,Programmleiter,Programmleiterin bzw. -leiter
+14,Programmleiter,ProgrammleiterInnen
+14,Programmleiter,Programmleitung
+14,Projektmanager,Projektmanagerin bzw. -manager
+14,Raucherbereich,Bereich für Rauchende
+14,Rechtsanwälten,Rechtsanwältinnen und Rechtsanwälten
+14,Rechtsreferent,Rechtsreferentin bzw. Rechtsreferent
+14,Referatsleiter,Referatsleiterin bzw. -leiter
+14,Referatsleiter,ReferatsleiterInnen
+14,Referatsleiter,Referatsleitung
+14,Repräsentanten,Repräsentantinnen und Repräsentanten
+14,Rettungshelfer,Rettungshelferin bzw. -helfer
+14,Sachbearbeiter,Sachbearbeiterin bzw. Sachbearbeiter
+14,Sachbearbeiter,SachbearbeiterInnen
+14,Sachbearbeiter,Sachbearbeiterinnen und Sachbearbeiter
+14,Schriftsteller,Schriftstellerin bzw. Schriftsteller
+14,Schriftsteller,SchriftstellerInnen
+14,Schriftsteller,Schriftstellerinnen und Schriftsteller
+14,Schulsprechern,Schulsprecherinnen und Schulsprechern
+14,Sektionsleiter,Sektionsleiterin bzw. -leiter
+14,Sektionsleiter,SektionsleiterInnen
+14,Sektionsleiter,Sektionsleiterinnen und Sektionsleiter
+14,Sektionsleiter,Sektionsleitung
+14,Sozialarbeiter,Sozialarbeiterin bzw. Sozialarbeiter
+14,Sozialarbeiter,SozialarbeiterInnen
+14,Sozialarbeiter,Sozialarbeiterinnen und Sozialarbeiter
+14,Sozialdemokrat,Sozialdemokratin und Sozialdemokrat
+14,Sozialpädagoge,Sozialpädagogin bzw. Sozialpädagoge
+14,Stationsführer,Stationsführerin bzw. Stationsführer
+14,Stationsführer,StationsführerInnen
+14,Stationsführer,Stationsführerinnen und Stationsführer
+14,Stationsleiter,Stationsleiterin bzw. -leiter
+14,Stationsleiter,StationsleiterInnen
+14,Stationsleiter,Stationsleiterinnen und Stationsleiter
+14,Stellvertreter,Stellvertretung
+14,Stellvertreter,vertreten durch
+14,Stellvertreter,vertreten von
+14,Stellvertreter,Vertretung
+14,Südamerikanern,Südamerikanerinnen und Südamerikanern
+14,Systembediener,Systembedienerin bzw. Systembediener
+14,Systembediener,SystembedienerInnen
+14,Teilnehmerzahl,Teilnahmezahl; Gruppengröße; Anmeldezahl
+14,Troubleshooter,Troubleshooterin bzw. Troubleshooter
+14,Unteroffiziere,Unteroffizierinnen und Unteroffiziere
+14,Verkehrssünder,Verkehrssünderin bzw. Verkehrssünder
+14,Verkehrssünder,VerkehrssünderInnen
+14,Verkehrssünder,Verkehrssünderinnen und Verkehrssünder
+14,Werkzeugmacher,Werkzeugmacherin bzw. Werkzeugmacher
+14,Werkzeugmacher,WerkzeugmacherInnen
+14,Werkzeugmacher,Werkzeugmacherinnen und Werkzeugmacher
+14,Wissenschafter,Wissenschafterin bzw. Wissensschafter
+14,Wissenschafter,WissenschafterInnen
+14,Wissenschafter,Wissenschafterinnen und Wissensschafter
+14,Wohnungsmakler,Wohnungsmaklerin bzw. Wohnungsmakler
+14,Wohnungsmakler,WohnungsmaklerInnen
+14,Wohnungsmakler,Wohnungsmaklerinnen und Wohnungsmakler
+14,Workshopleiter,Workshopleitung
+14,Zahnarzthelfer,Zahnarzthelferin bzw. Zahnarzthelfer
+14,Zahnarzthelfer,ZahnarzthelferInnen
+14,Zahnarzthelfer,Zahnarzthelferinnen und Zahnarzthelfer
+14,Ziviltechniker,Ziviltechnikerin bzw. Ziviltechniker
+14,Ziviltechniker,ZiviltechnikerInnen
+15,Administratoren,Administratorinnen und Administratoren
+15,Adressatenliste,AdressatInnenliste
+15,Adressatenliste,Adressatinnenliste und Adressatenliste
+15,Alleinverdiener,Alleinverdienerin bzw. Alleinverdiener
+15,Alleinverdiener,AlleinverdienerInnen
+15,Alleinverdiener,Alleinverdienerinnen und Alleinverdiener
+15,Altersforschern,Altersforscherinnen und Altersforschern
+15,Ansprechpartner,Ansprechpartnerin bzw. Ansprechpartner
+15,Ansprechpartner,AnsprechpartnerInnen
+15,Ansprechpartner,Ansprechperson; Kontakt
+15,Anstaltsgehilfe,Anstaltsgehilfin bzw.-gehilfe
+15,Anstaltsgehilfe,Anstaltsgehilfin und Anstaltsgehilfe
+15,Anstaltsgehilfe,Anstaltsgehilfinnen und Anstaltsgehilfen
+15,Antragsstellern,Antragsstellerinnen und Antragsstellern
+15,anwenderbezogen,anwendungsbezogen
+15,anwenderbezogen,praxisbezogen
+15,Arbeitskollegen,Arbeitskolleginnen und Arbeitskollegen
+15,Ärztekommission,ärztliche Kommission
+15,Autoelektrikern,Autoelektrikerinnen und Autoelektrikern
+15,Automechanikern,Automechanikerinnen und Automechanikern
+15,Bankkaufmännern,Bankkauffrauen und Bankkaufmännern
+15,Bauinspizienten,BauinspizientInnen
+15,Benutzerordnung,Benutzungsordnung
+15,Besitzerwechsel,Besitzwechsel
+15,Betriebsprüfern,Betriebsprüferinnen und Betriebsprüfern
+15,Bezirksreferent,Bezirksreferentin bzw. -referent
+15,Blockelektriker,Blockelektrikerin und Blockelektriker
+15,Blockelektriker,Blockelektrikerinnen und Blockelektriker
+15,Branddirektoren,BranddirektorInnen
+15,Branddirektoren,Branddirektorinnen und Branddirektoren
+15,Brandschutzwart,Brandschutzwartin bzw. -schutzwart
+15,Damenmannschaft,Damenteam
+15,Dezernatsleiter,Dezernatsleiterin bzw. -leiter
+15,Dezernatsleiter,Dezernatsleiterinnen und -leiter
+15,Dezernatsleiter,Dezernatsleitung
+15,Diplomingenieur,Diplomingenieurin bzw. Diplomingenieur
+15,Druckereileiter,Druckereileiterin bzw. -leiter
+15,Elektromonteure,Elektromonteurinnen und Elektromonteure
+15,Ergotherapeuten,ErgotherapeutInnen
+15,Expertengremium,ExpertInnengremium
+15,Expertengremium,Gremium von Expertinnen und Experten
+15,Fachassistenten,FachassistentInnen
+15,Fachassistenten,Fachassistenz
+15,Fachwerkmeister,Fachwerkmeisterin bzw. -werkmeister
+15,Fachwerkmeister,FachwerkmeisterInnen
+15,Feuerwehrmänner,Feuerwehrleute
+15,Gebietsreferent,Gebietsreferentin bzw. -referent
+15,Gebietsreferent,GebietsreferentInnen
+15,Generaldirektor,Generaldirektorin bzw. -direktor
+15,Generalsekretär,Generalsekretärin bzw. -sekretär
+15,Geschäftsführer,Geschäftsführende
+15,Geschäftsführer,Geschäftsführerin und Geschäftsführer
+15,Geschäftsführer,GeschäftsführerInnen
+15,Geschäftsführer,Geschäftsführerinnen und Geschäftsführer
+15,Geschäftsführer,Geschäftsführung
+15,Geschäftsleiter,Geschäftsleiterin bzw. Geschäftsleiter
+15,Geschäftsleiter,GeschäftsleiterInnen
+15,Geschäftsleiter,Geschäftsleiterinnen und Geschäftsleiter
+15,Gesellschaftern,Gesellschafterinnen und Gesellschaftern
+15,Gewerkschaftern,Gewerkschafterinnen und Gewerkschaftern
+15,Hausinspektoren,HausinspektorInnen
+15,Hauskoordinator,Hauskoordinatorin bzw. -koordinator
+15,Heimhelferinnen,Heimhelferinnen und Heimhelfer
+15,Ingenieurarbeit,Planungs- und Konstruktionsarbeit
+15,IT-Beauftragter,IT-Beauftragte bzw. IT-Beauftragter
+15,Kanzleigehilfin,Kanzleigehilfin bzw. -gehilfe
+15,Kanzleilehrling,weiblicher bzw. männlicher Kanzleilehrling
+15,Kanzleileiterin,Kanzleileiterin bzw.- leiter
+15,Kardiotechniker,Kardiotechnikerin bzw. -techniker
+15,Kindergärtnerin,Kindergartenpädagogin bzw. -pädagoge
+15,Klassensprecher,Klassensprecherin bzw. Klassensprecher
+15,Klassensprecher,KlassensprecherInnen
+15,Klassensprecher,Klassensprecherinnen und Klassensprecher
+15,Krankenpflegern,Krankenpflegerinnen und Krankenpflegern
+15,Landeshauptmann,Landeshauptfrau bzw. -mann
+15,Lebensgefährten,Lebensgefährtinnen und Lebensgefährten
+15,Lehrerkonferenz,Konferenz der Lehrkräfte
+15,leserfreundlich,lesefreundlich
+15,Lokomotivführer,Lokomotivführerin und Lokomotivführer
+15,Marketingleiter,Marketingleiterin bzw. -leiter
+15,Metallarbeitern,Metallarbeiterinnen und Metallarbeitern
+15,Mitteleuropäern,Mitteleuropäerinnen und Mitteleuropäern
+15,Motorradfahrern,Motorradfahrerinnen und Motorradfahrern
+15,Nordamerikanern,Nordamerikanerinnen und Nordamerikanern
+15,Oberwerkmeister,Oberwerkmeisterin bzw. -werkmeister
+15,Parlamentariern,Parlamentarierinnen und Parlamentariern
+15,Patientenanwalt,PatientInnenanwältin bzw. -anwalt
+15,Patientenanwalt,PatientInnenanwaltschaft
+15,Patientenzimmer,Wartezimmer
+15,Physiotherapeut,Physiotherapeutin bzw. Physiotherapeut
+15,Protokollführer,Protokollführende
+15,Psychotherapeut,Psychotherapeutin bzw. -therapeut
+15,Rauchfangkehrer,RauchfangkehrerInnen
+15,Rauchfangkehrer,Rauchfangkehrerinnen und Rauchfangkehrer
+15,Rechtsfürsorger,Rechtsfürsorgerin bzw. -fürsorger
+15,Rechtsfürsorger,RechtsfürsorgerInnen
+15,Sachbearbeitern,Sachbearbeiterinnen und Sachbearbeitern
+15,Sammlungsleiter,Sammlungsleiterin bzw. -leiter
+15,Sanitätsgehilfe,Sanitätsgehilfin bzw. -gehilfe
+15,Sanitätsrevisor,Sanitätsrevisorin bzw. -revisor
+15,Schriftstellern,Schriftstellerinnen und Schriftstellern
+15,Sektionsleitern,Sektionsleiterinnen und Sektionsleitern
+15,Sozialarbeitern,Sozialarbeiterinnen und Sozialarbeitern
+15,Sozialpädagogen,SozialpädagogInnen
+15,Sozialpädagogen,Sozialpädagoginnen und Sozialpädagogen
+15,Stationsgehilfe,Stationsgehilfin bzw. -gehilfe
+15,Stationspfleger,Stationspflegerin bzw. -pfleger
+15,Stationspfleger,Stationsschwester bzw. Stationspfleger
+15,Stationsrevisor,Stationsrevisorin bzw. Stationsrevisor
+15,Stationsrevisor,Stationsrevisorinnen und Stationsrevisoren
+15,Teamassistenten,TeamassistentInnen
+15,Teamwerkmeister,Teamwerkmeisterin bzw. -meister
+15,Teamwerkmeister,TeamwerkmeisterInnen
+15,Unteroffizieren,Unteroffizierinnen und Unteroffizieren
+15,Vereinsobmänner,Vereinsobleute
+15,Vergabereferent,Vergabereferentin bzw. -referent
+15,Vergabereferent,VergabereferentInnen
+15,Vertragspartner,Vertragspartei
+15,Weltmarktführer,Weltmarktführende
+15,Werkzeugmachern,Werkzeugmacherinnen und Werkzeugmachern
+15,Wissenschaftler,Wissenschaftlerin bzw. Wissenschaftler
+15,Wissenschaftler,WissenschaftlerInnen
+15,Wissenschaftler,Wissenschaftlerinnen und Wissenschaftler
+15,Wohnungsmaklern,Wohnungsmaklerinnen und Wohnungsmaklern
+15,Zahnarzthelfern,Zahnarzthelferinnen und Zahnarzthelfern
+15,Zentraleuropäer,Zentraleuropäerin bzw. Zentraleuropäer
+15,Zentraleuropäer,ZentraleuropäerInnen
+15,Zentraleuropäer,Zentraleuropäerinnen und Zentraleuropäer
+16,Abteilungshelfer,Abteilungshelferin bzw. -helfer
+16,Abteilungshelfer,AbteilungshelferInnen
+16,Abteilungshelfer,Abteilungshelferinnen und Abteilungshelfer
+16,Abteilungsleiter,Abteilungsleiterin bzw. Abteilungsleiter
+16,Abteilungsleiter,AbteilungsleiterInnen
+16,Abteilungsleiter,Abteilungsleiterinnen und Abteilungsleiter
+16,Abteilungsleiter,Abteilungsleitung
+16,Anwaltsassistent,Anwaltsassistentin und Anwaltsassistent
+16,Anwenderprogramm,Anwendungsprogramm
+16,Arbeiterfamilien,Familien von Arbeiterinnen und Arbeitern
+16,Arbeitsmediziner,Arbeitsmedizinerin bzw. Arbeitsmediziner
+16,Arbeitsmediziner,ArbeitsmedizinerInnen
+16,Benutzerhandbuch,Bedienungsanleitung
+16,Benutzerhandbuch,Benutzungshandbuch
+16,Benutzerhandbuch,Manual
+16,Beratertätigkeit,BeraterInnentätigkeit
+16,Beratertätigkeit,Beratung
+16,Bereichsdirektor,Bereichsdirektorin bzw. Bereichsdirektor
+16,Besucherrückgang,Publikumsrückgang
+16,Besucherrückgang,Rückgang der Besuche
+16,Besucherrückgang,sinkende Nachfrage
+16,Betriebsvorstand,Betriebsvorständin bzw. -vorstand
+16,Bezirksvorsteher,Bezirksvorsteherin bzw. -vorsteher
+16,Bezirksvorsteher,BezirksvorsteherInnen
+16,Bezirksvorsteher,Bezirksvorsteherinnen und Bezirksvorsteher
+16,Brandschutzwarte,BrandschutzwartInnen
+16,Budgetreferenten,BudgetreferentInnen
+16,Budgetreferenten,Budgetrefertinnen und -referenten
+16,Diplomingenieure,DiplomingenieurInnen
+16,Ein-Mann-Betrieb,Ein-Personen-Betrieb
+16,Elektroingenieur,Elektroingenieurin und Elektroingenieur
+16,Elektromonteuren,Elektromonteurinnen und Elektromonteure
+16,Fachbediensteter,Fachbedienstete bzw. Fachbediensteter
+16,Familienreferent,Familienreferentin bzw. -referent
+16,Ferialpraktikant,Ferialpraktikantin bzw. Ferialpraktikant
+16,Finanzreferenten,FinanzreferentInnen
+16,Frauenmannschaft,Frauenteam
+16,Generalsekretäre,GeneralsekretärInnen
+16,Generalsekretäre,Generalsekretärinnen und Generalsekretäre
+16,Genossenschafter,GenossenschafterInnen
+16,Genossenschafter,Genossenschafterinnen und Genossenschafter
+16,Geschäftsführern,Geschäftsführerinnen und Geschäftsführern
+16,Geschäftsinhaber,Geschäftsinhaberin bzw. Geschäftsinhaber
+16,Geschäftsinhaber,GeschäftsinhaberInnen
+16,Geschäftsinhaber,Geschäftsinhaberinnen und Geschäftsinhaber
+16,Geschäftsleitern,Geschäftsleiterinnen und Geschäftsleitern
+16,Gesprächspartner,Gesprächsbeteiligte; Gegenüber
+16,Hauptschullehrer,Hauptschullehrerin bzw. Hauptschullehrer
+16,Hauptschullehrer,HauptschullehrerInnen
+16,Hauptschullehrer,Hauptschullehrerinnen und Hauptschullehrer
+16,Hauptschullehrer,Lehrkörper
+16,IKS-Beauftragter,IKS-Beauftragte bzw. IKS-Beauftragter
+16,Immobilienmakler,Immobilienmaklerin bzw. -makler
+16,Immobilienmakler,ImmobilienmaklerInnen
+16,Immobilienmakler,Immobilienmaklerinnen und Immobilienmakler
+16,Jugendombudsmann,Jugendombudsfrau bzw. -mann
+16,Jugendombudsmann,Jugendombudsstelle
+16,Klubvorsitzender,Klubvorsitzende bzw. - vorsitzender
+16,Kraftwagenlenker,Kraftwagenlenkerin bzw.-lenker
+16,Krankenschwester,Krankenschwester bzw. -pfleger
+16,kundenfreundlich,kundInnenfreundlich
+16,kundenfreundlich,zuvorkommend
+16,Landtagsdirektor,Landtagsdirektorin bzw. Landtagsdirektor
+16,Lateinamerikaner,Lateinamerikanerin und Lateinamerikaner
+16,Lateinamerikaner,LateinamerikanerInnen
+16,Lateinamerikaner,Lateinamerikanerinnen und Lateinamerikaner
+16,Lokomotivführern,Lokomotivführerinnen und Lokomotivführern
+16,Maschinenmeister,Maschinenmeisterin bzw. -meister
+16,Musikschulleiter,Musikschulleiterin bzw. -leiter
+16,Musikschulleiter,Musikschulleitung
+16,Oberösterreicher,OberösterreicherInnen
+16,Oberösterreicher,Oberösterreicherinnen und Oberösterreicher
+16,Objekteigentümer,ObjekteigentümerIn
+16,Objekteigentümer,Objekteigentümerin bzw. Projekteigentümer
+16,Personalreferent,Personalreferentin bzw. -referent
+16,Prosekturgehilfe,Prosekturgehilfin bzw. -gehilfe
+16,Prozessinitiator,ProzessinitiatorIn
+16,Prozessinitiator,Prozessinitiatorin bzw. Prozessinitiator
+16,Qualitätsmanager,Qualitätsmanagerin bzw. -manager
+16,Qualitätsmanager,QualitätsmanagerInnen
+16,Rauchfangkehrern,Rauchfangkehrerinnen und Rauchfangkehrern
+16,Sachverständiger,Expertin bzw. Experte
+16,Sachverständiger,Sachverständige bzw. Sachverständiger
+16,Schirmherrschaft,Support; gefördert von; unterstützt von
+16,Sozialdemokraten,SozialdemokratInnen
+16,Sozialdemokraten,Sozialdemokratinnen und Sozialdemokraten
+16,Stadtbaudirektor,Stadtbaudirektorin bzw. Stadtbaudirektor
+16,Stützpunktleiter,Stützpunktleiterin bzw. -leiter
+16,Stützpunktleiter,StützpunktleiterInnen
+16,Systemanalytiker,Systemanalytikerin bzw. Systemanalytiker
+16,Systemanalytiker,SystemanalytikerInnen
+16,Systemanalytiker,Systemanalytikerinnen und Systemanalytiker
+16,Teilnehmergebühr,Teilnahmegebühr
+16,Volksschullehrer,Volksschul-Lehrkörper
+16,Volksschullehrer,Volksschullehrerin bzw. Volksschullehrer
+16,Volksschullehrer,VolksschullehrerInnen
+16,Volksschullehrer,Volksschullehrerinnen und Volksschullehrer
+16,Wissenschaftlern,Wissenschaftlerinnen und Wissenschaftlern
+16,Zentraleuropäern,Zentraleuropäerinnen und Zentraleuropäern
+17,Abteilungshelfern,Abteilungshelferinnen und Abteilungshelfern
+17,Abteilungsleitern,Abteilungsleiterinnen und Abteilungsleitern
+17,Apothekenlaborant,Apothekenlaborantin bzw. -laborant
+17,Apothekenlaborant,ApothekenlaborantInnen
+17,Arbeitspsychologe,Arbeitspsychologin bzw. Arbeitspsychologe
+17,Ausbildungsjurist,Ausbildungsjuristin bzw. Ausbildungsjurist
+17,Beschwerdemanager,Beschwerdemanagerin bzw. Beschwerdemanager
+17,Beschwerdemanager,BeschwerdemanagerInnen
+17,Besucherparkplatz,Besuchsparkplatz
+17,Besucherparkplatz,Parkplatz für BesucherInnen
+17,Betriebsassistent,Betriebsassistentin bzw.- assistent
+17,Betriebsinspektor,Betriebsinspektorin bzw. -inspektor
+17,Betriebsvorstände,Betriebsvorständinnen und -vorstände
+17,Bezirksamtsleiter,Bezirksamtsleiterin bzw. -amtsleiter
+17,Bezirksamtsleiter,BezirksamtsleiterInnen
+17,Bezirkswahlleiter,Bezirkswahlleitung
+17,Budgetkoordinator,Budgetkoordinatorin bzw. -koordinator
+17,Bürgerbeteiligung,beteiligte Institutionen bzw. Beteiligung von Bürgerinnen und Bürgern
+17,Bürgerversammlung,Versammlung von Bürgerinnen und Bürgern
+17,Drogenkoordinator,Drogenkoordinatorin bzw. Drogenkoordinator
+17,Elektroingenieure,Elektroningenieurinnen und Elektroingenieure
+17,EU-Förderreferent,EU-Förderreferentin bzw. -referent
+17,Fachbereitsleiter,Fachbereichsleitung
+17,Familientherapeut,Familientherapeutin bzw. -therapeut
+17,Fußgängerübergang,Zebrastreifen
+17,Gartenwerkmeister,Gartenwerkmeisterin bzw. -meister
+17,Gartenwerkmeister,GartenwerkmeisterInnen
+17,Gebietsreferenten,Gebietsreferentinnen bzw. -referenten
+17,Generaldirektoren,GeneraldirektorInnen
+17,Generaldirektoren,Generaldirektorinnen bzw. Generaldirektor
+17,Genossenschaftern,Genossenschafterinnen und Genossenschaftern
+17,Geschäftsinhabern,Geschäftsinhaberinnen und Geschäftsinhabern
+17,Handybeauftragter,Handybeauftragte bzw. -beauftragter
+17,Hauskoordinatoren,HauskoordinatorInnen
+17,Hausprofessionist,Hausprofessionistin bzw. -professionist
+17,Immobilienmaklern,Immobilienmaklerinnen und Immobilienmaklern
+17,Institutsvorstand,Institutsvorständin bzw. -vorstand
+17,Kehrbezirksleiter,Kehrbezirksleiterin bzw. -leiter
+17,Konsumentenschutz,KonsumentInnenschutz
+17,Krankenschwestern,Krankenpflegepersonal
+17,Krankenschwestern,Krankenschwestern und Krankenpfleger
+17,Krankenschwestern,Krankenschwestern und Krankenpflegern
+17,KTH-Administrator,KTH-Administratorin bzw. KTH-Administrator
+17,Landeshauptmänner,Landeshauptleute
+17,Landtagspräsident,Landtagspräsidentin bzw. Landtagspräsident
+17,Lateinamerikanern,Lateinamerikanerinnen und Lateinamerikanern
+17,Luftbildauswerter,AuswerterInnen von Luftbildern
+17,Luftbildauswerter,Luftbildauswerterin bzw. - auswerter
+17,Mädchenmannschaft,Mädchenteam
+17,Maschinenarbeiter,Maschinenarbeiterin und Maschinenarbeiter
+17,Maschinenarbeiter,Maschinenarbeiterinnen und Maschinenarbeiter
+17,Mittelschullehrer,Mittelschullehrerin bzw. Mittelschullehrer
+17,Mittelschullehrer,MittelschullehrerInnen
+17,Mittelschullehrer,Mittelschullehrerinnen und Mittelschullehrer
+17,Oberösterreichern,Oberösterreicherinnen und Oberösterreichern
+17,Oberösterrreicher,Oberösterreicherin bzw. Oberösterreicher
+17,Olympiamannschaft,Olympiateam
+17,Operationsgehilfe,Operationsgehilfin bzw. -gehilfe
+17,Ordinationshelfer,Ordinationshelferin bzw. -helfer
+17,Personalvertreter,Personalvertreterin bzw. Personalvertreter
+17,Personalvertreter,PersonalvertreterInnen
+17,Personalvertreter,Personalvertreterinnen bzw. Personalvertreter
+17,Personalvertreter,Personalvertretung
+17,Pflegebedürftiger,Pflegebedürftige bzw. Pflegebedürftiger
+17,Physiotherapeuten,PhysiotherapeutInnen
+17,Physiotherapeuten,Physiotherapeutinnen und Physiotherapeuten
+17,Physiotherapeutin,Physiotherapeutin bzw. -therapeut
+17,Prosekturgehilfen,ProsekturgehilfInnen
+17,Prozesseigentümer,ProzesseigentümerIn
+17,Prozesseigentümer,Prozesseigentümerin bzw. Prozesseigentümer
+17,Psychotherapeuten,Psychotherapeutinnen und Psychotherapeuten
+17,PUMA-Beauftragter,PUMA-Beauftragte bzw. -Beauftragter
+17,Rettungssanitäter,Sanitäterin bzw. Sanitäter
+17,Sportplatzrevisor,Sportplatzrevisorin bzw. -revisor
+17,Stabstellenleiter,Stabstellenleiterin bzw. -leiter
+17,Stationsschwester,Stationsschwester bzw. Stationspfleger
+17,Systemanalytikern,Systemanalytikerinnen und Systemanalytikern
+17,Versichertenkarte,Gesundheitskarte
+17,Versichertenkarte,Versicherungskarte
+17,Veterinärdirektor,Veterinärdirektorin bzw. Veterinärdirektor
+17,Vizebürgermeister,Vizebürgermeisterin bzw. Vizebürgermeister
+17,Volksschullehrern,Volksschullehrerinnen und Volksschullehrern
+17,Wählerverzeichnis,Wahlverzeichnis
+17,Wäschereiarbeiter,Wäschereiarbeiterin bzw. -arbeiter
+17,Werkstättenleiter,Werkstättenleiterin bzw. Werkstättenleiter
+17,Wirtschaftshelfer,Wirtschaftshelferin bzw. Wirtschaftshelfer
+17,Wirtschaftshelfer,WirtschaftshelferInnen
+17,Wirtschaftshelfer,Wirtschaftshelferinnen und Wirtschaftshelfer
+18,Anwaltsassistenten,Anwaltsassistentinnen und Anwaltsassistenten
+18,anwenderfreundlich,anwendungsfreundlich
+18,anwenderfreundlich,einfach anzuwenden
+18,anwenderfreundlich,praxisnah
+18,benutzerfreundlich,bedienungsfreundlich
+18,benutzerfreundlich,leicht zu bedienen
+18,Bereichsdirektoren,BereichsdirektorInnen
+18,Betriebskontrollor,Betriebskontrollorin bzw. -kontrollor
+18,Bezirkskoordinator,Bezirkskoordinatorin bzw. - koordinator
+18,Elektroingenieuren,Elektroingenieurinnen und Elektroingenieure
+18,Fachbereichsleiter,Fachbereichsleiterin bzw. -leiter
+18,Fachbereichsleiter,Fachbereichsleiterinnen und Fachbereichsleiter
+18,Familienreferenten,FamilienreferentInnen
+18,Ferialpraktikanten,Ferialpraktikantinnen und Ferialpraktikanten
+18,Fußgängerdurchgang,Durchgang
+18,Jugendombudsmänner,Jugendombudsleute
+18,Kindergärtnerinnen,KindergartenpädagogInnen
+18,Lehrlingsausbilder,Lehrlingsausbilderin bzw. Lehrlingsausbilder
+18,Magistratsdirektor,Magistratsdirektorin bzw. -direktor
+18,Maschinenschlosser,Maschinenschlosserin bzw. Maschinenschlosser
+18,Maschinenschlosser,MaschinenschlosserInnen
+18,Maschinenschlosser,Maschinenschlosserinnen und Maschinenschlosser
+18,Mittelschullehrern,MittelschullehrerInnen
+18,Mittelschullehrern,Mittelschullehrerinnen und Mittelschullehrern
+18,Mutter-Kind-Gruppe,Eltern-Kind-Gruppe
+18,Niederösterreicher,Niederösterreicherin bzw. Niederösterreicher
+18,Niederösterreicher,NiederösterreicherInnen
+18,Niederösterreicher,Niederösterreicherinnen und Niederösterreicher
+18,Personalentwickler,Personalentwicklerin bzw. -entwickler
+18,Personalentwickler,PersonalentwicklerInnen
+18,Personalentwickler,Personalentwicklung
+18,Personalreferenten,PersonalreferentInnen
+18,Praktikantenstelle,Praktikumsstelle
+18,Projektkoordinator,Projektkoordinatorin bzw. -koordinator
+18,Projektmitarbeiter,Projektmitarbeiterin bzw. -mitarbeiter
+18,Projektmitarbeiter,Projektmitarbeiterin bzw. Projektmitarbeiter
+18,Schlittschuhläufer,Schlittschuhläuferin bzw. Schlittschuhläufer
+18,Schlittschuhläufer,SchlittschuhläuferInnen
+18,Schlittschuhläufer,Schlittschuhläuferinnen und Schlittschuhläufer
+18,Staatsbürgerschaft,Nationalität
+18,Staatsbürgerschaft,Staatsangehörigkeit
+18,Stadtbaudirektoren,StadtbaudirektorInnen
+18,Steuerhinterzieher,Steuerhinterziehende
+18,Stiftungsverwalter,Stiftungsverwalterin bzw. -verwalter
+18,Telko-Beauftragter,Telko-Beauftragte bzw. -Beauftragter
+18,Vermessungsgehilfe,Vermessungsgehilfin bzw. Vermessungsgehilfe
+18,Verursacherprinzip,Verursachungsprinzip
+19,Alternativmediziner,Alternativmedizinerin und Alternativmediziner
+19,Alternativmediziner,AlternativmedizinerInnen
+19,Alternativmediziner,Alternativmedizinerinnen und Alternativmediziner
+19,Anbieterverzeichnis,AnbieterInnenverzeichnis
+19,Anbieterverzeichnis,Anbieterinnenverzeichnis und Anbieterverzeichnis
+19,Ausbildungsjuristen,AusbildungsjuristInnen
+19,Ausbildungsreferent,Ausbildungsreferentin und Ausbildungsreferent
+19,Ausbildungsreferent,AusbildungsreferentInnen
+19,Behindertenbetreuer,Behindertenbetreuerin bzw.-betreuer
+19,Behindertenbetreuer,BehindertenbetreuerInnen
+19,Benutzerstatistiken,BenutzerInnenstatistiken
+19,Benutzerstatistiken,Benutzerinnenstatistiken und Benutzerstatistiken
+19,Betriebsassistenten,BetriebsassistentInnen
+19,Betriebsinspektoren,BetriebsinspektorInnen
+19,Betriebskontrollore,BetriebskontrollorInnen
+19,Betriebsorganisator,Betriebsorganisatorin bzw. - organisator
+19,Budgetkoordinatoren,BudgetkoordinatorInnen
+19,Budgetkoordinatoren,Budgetkoordinatorinnen und -koordinatoren
+19,Datenschutzreferent,Datenschutzreferentin bzw. -referent
+19,Dienststellenleiter,Dienstellenleiterin bzw. -leiter
+19,Dienststellenleiter,DienststellenleiterInnen
+19,Dienststellenleiter,Dienststellenleitung
+19,EDV-Ansprechpartner,EDV-Ansprechpartnerin bzw. -partner
+19,EDV-Ansprechpartner,EDV-AnsprechpartnerInnen
+19,Elektroinstallateur,Elektroinstallateurin und Elektroinstallateur
+19,Elektrokarrenführer,Elektrokarrenführerin bzw. Elektrokarrenführer
+19,Elektrokarrenführer,Elektrokarrenführerinnen und -führer
+19,Entwicklungspartner,Entwicklungspartnerin bzw. Entwicklungspartner
+19,Entwicklungspartner,EntwicklungspartnerInnen
+19,EU-Förderreferenten,EU-FörderreferentInnen
+19,Fachbereichsmanager,Fachbereichsmanagerin bzw. -manager
+19,Fachwissenschaftler,Fachforschende
+19,Familientherapeuten,FamilientherapeutInnen
+19,Gartenbezirksleiter,Gartenbezirksleiterin bzw. -leiter
+19,Gartenbezirksleiter,GartenbezirksleiterInnen
+19,Gartenbezirksleiter,Gartenbezirksleiterinnen und Gartenbezirksleiter
+19,Geschäftsfeldleiter,Geschäftsfeldleiterin bzw. -leiter
+19,Gesundheitsreferent,Gesundheitsreferentin bzw. Gesundheitsreferent
+19,Hausprofessionisten,HausprofessionistInnen
+19,Konsumentenberatung,Beratung von Konsumentinnen und Konsumenten
+19,Kooperationspartner,in Kooperation mit
+19,Kraftfahrzeuglenker,KraftfahrzeuglenkerInnen
+19,Maschinenschlossern,Maschinenschlosserinnen und Maschinenschlossern
+19,Nachbareinwendungen,Einwendungen von Nachbarinnen und Nachbarn
+19,Niederösterreichern,Niederösterreicherinnen und Niederösterreichern
+19,Obduktionsassistent,Obduktionsassistentin bzw. Obduktionsassistent
+19,Operationsassistent,Operationsassistentin bzw. Operationsassistent
+19,Ordinationsgehilfin,Ordinationsgehilfin bzw. - gehilfe
+19,Patientenversorgung,ärztliche Versorgung
+19,Radfahrbeauftragter,Radfahrbeauftragte bzw. -beauftragter
+19,Registerkoordinator,Registerkoordinatorin bzw. -koordinator
+19,Sanitätsoberrevisor,Sanitätsoberrevisorin bzw. -revisor
+19,Schlittschuhläufern,Schlittschuhläuferinnen und Schlittschuhläufern
+19,Systemadministrator,Systemadministratorin bzw. -administratoren
+19,Versicherungsmakler,Versicherungsmaklerin und Versicherungsmakler
+19,Versicherungsmakler,VersicherungsmaklerInnen
+19,Versicherungsmakler,Versicherungsmaklerinnen und Versicherungsmakler
+19,Wirtschaftsreferent,Wirtschaftsreferentin bzw. Wirtschaftsreferent
+19,Zahlungspflichtiger,zahlungspflichtig sein
+19,Zahlungspflichtiger,Zahlungspflichtige
+20,Agrarwissenschaftler,Agrarwissenschaftlerin und Agrarwissenschaftler
+20,Agrarwissenschaftler,Agrarwissenschaftlerinnen und Agrarwissenschaftler
+20,Alternativmedizinern,AlternativmedizinerInnen
+20,Alternativmedizinern,Alternativmedizinerinnen und Alternativmedizinern
+20,Ausbildungstechniker,Ausbildungstechnikerin bzw. Ausbildungstechniker
+20,Ausbildungstechniker,AusbildungstechnikerInnen
+20,Bezirkskoordinatoren,BezirkskoordinatorInnen
+20,Bezirkskoordinatoren,Bezirkskoordinatorinnen und -koordinatoren
+20,Desinfektionsgehilfe,Desinfektionsgehilfin bzw. -gehilfe
+20,Diplomsozialarbeiter,Diplomsozialarbeiterin bzw. -sozialarbeiter
+20,Direktionssekretärin,Direktionssekretärin bzw. Direktionssekretär
+20,Einbautenkoordinator,Einbautenkoordinatorin bzw. -koordinator
+20,Elektroinstallateure,Elektroinstallateurinnen und Elektroninstallateure
+20,Fachabteilungsleiter,Fachabteilungsleitung
+20,Fremdenführerprüfung,Prüfung von FremdenführerInnen
+20,Gartenbezirksleitern,Gartenbezirksleiterinnen und Gartenbezirksleitern
+20,Herstellerspezifisch,herstellungsspezifisch
+20,Kontrollamtsdirektor,Kontrollamtsdirektorin bzw. -direktor
+20,Landesschulinspektor,Landesschulinspektorin bzw. - inspektor
+20,Lehrlingskoordinator,Lehrlingskoordinatorin bzw. Lehrlingskoordinator
+20,Radiologietechnologe,Radiologietechnologin bzw. Radiologietechnologe
+20,Rettungsdienstleiter,Rettungsdienstleiterin bzw. -leiter
+20,Sachwalterbestellung,Bestellung einer Sachwalterin bzw. eines Sachwalters
+20,Seniorenbeauftragter,Seniorenbeauftragte bzw. Seniorenbeauftragter
+20,SES-Zeitbeauftragter,SES-Zeitbeauftragte bzw. SES-Zeitbeauftragter
+20,Vermessungstechniker,Vermessungstechnikerin bzw. Vermessungstechniker
+20,Versicherungsmaklern,Versicherungsmaklerinnen und Versicherungsmaklern
+21,Agrarwissenschaftlern,Agrarwissenschaftlerinnen und Agrarwissenschaftlern
+21,Arbeitsgruppenmanager,Arbeitsgruppenmanagerin bzw. - manager
+21,Benutzereinstellungen,BenutzerInneneinstellungen
+21,Benutzereinstellungen,Benutzerinneneinstellungen und Benutzereinstellungen
+21,Benutzerinformationen,BenutzerInneninformationen
+21,Benutzerinformationen,Benutzerinneninformationen und Benutzerinformationen
+21,Benutzerkalenderliste,BenutzerInnenkalenderliste
+21,Benutzerkalenderliste,Benutzerinnenkalenderliste und Benutzerkalenderliste
+21,Betriebsoberinspektor,Betriebsoberinspektorin bzw. - oberinspektor
+21,Betriebsorganisatoren,BetriebsorganisatorInnen
+21,Blutdepotbeauftragter,Blutdepotbeauftragte bzw. -beauftragter
+21,Bundespräsidentenwahl,Bundespräsidentschaftswahl
+21,Datenverantwortlicher,Datenverantwortliche bzw. -verantwortlicher
+21,Desinfektionsgehilfen,Desinfektionsgehilfinnen und -gehilfen
+21,Elektroinstallateuren,Elektroinstallateurinnen und Elektroninstallateuren
+21,Kindergartenpädagogin,Kindergartenpädagogin bzw. -pädagoge
+21,Kindersingschulleiter,Kindersingschulleiterin bzw. -leiter
+21,Kindersingschulleiter,Kindersingschulleitung
+21,Maschinenbauingenieur,Maschinenbauingenieurin bzw. Maschinenbauingenieur
+21,Obduktionsassistenten,ObduktionsassistentInnen
+21,Operationsassistenten,OperationsassistentInnen
+21,Organisationsreferent,Organisationsreferentin bzw. -referent
+21,Patientenorientierung,PatientInnenorientierung
+21,Personalstellenleiter,Personalstellenleiterin bzw. -leiter
+21,Qualitätsbeauftragter,Qualitätsbeauftragte bzw. -beauftragter
+21,Radiologietechnologen,RadiologietechnologInnen
+21,Rechnungsamtsdirektor,Rechnungsamtsdirektorin bzw. -direktor
+21,Rechnungsamtsdirektor,RechnungsamtsdirektorInnen
+21,Sprachwissenschaftler,Sprachwissenschaftlerin bzw. Sprachwissenschaftler
+21,Sprachwissenschaftler,Sprachwissenschaftlerinnen und Sprachwissenschaftler
+21,Systemadministratoren,SystemadministratorInnen
+21,Universitätsassistent,Universitätsassistentin bzw. -assistent
+21,Wäschereibediensteter,Wäschereibedienstete bzw. -bediensteter
+21,Ziviltechnikerprüfung,Prüfung der ZiviltechnikerInnen
+22,Ärzteausbildungsstelle,Ausbildungsstelle für Ärztinnen und Ärzte
+22,Außendienstmitarbeiter,Außendienstmitarbeiterin und Außendienstmitarbeiter
+22,Außendienstmitarbeiter,AußendienstmitarbeiterInnen
+22,Außendienstmitarbeiter,Außendienstmitarbeiterinnen und Außendienstmitarbeiter
+22,Landessanitätsdirektor,Landessanitätsdirektorin bzw. -direktor
+22,Lehrwerkstättengehilfe,Lehrwerkstättengehilfin bzw. Lehrwerkstättengehilfe
+22,Lehrwerkstättenmeister,Lehrwerkstättenmeisterin bzw. Lehrwerkstättenmeister
+22,Maschinenbauingenieure,Maschinenbauingenieurinnen und Maschinenbauingenieure
+22,Prozessveranwortlicher,Prozessverantwortliche bzw. -verantwortlicher
+22,Sprachwissenschaftlern,Sprachwissenschaftlerinnen und Sprachwissenschaftlern
+22,Veranstaltungsreferent,Veranstaltungsreferentin bzw. -referent
+22,Veranstaltungsreferent,VeranstaltungsreferentInnen
+23,Ausbildungsbeauftragter,Ausbildungsbeauftragte bzw. Ausbildungsbeauftragter
+23,Außendienstmitarbeitern,Außendienstmitarbeiterinnen und Außendienstmitarbeitern
+23,Benutzerstellvertretung,BenutzerInnenstellvertretung
+23,Benutzerstellvertretung,Benutzerinnenstellvertretung und Benutzerstellvertretung
+23,Betriebsoberinspektoren,BetriebsoberinspektorInnen
+23,Brandschutzbeauftragter,Brandschutzbeauftragte bzw. -beauftragter
+23,E-Rechtverantwortlicher,E-Rechtverantwortliche bzw. -verantwortlicher
+23,Gefahrengutbeauftragter,Gefahrengutbeauftragte bzw.- beauftragter
+23,Jungbürgerveranstaltung,Veranstaltung für Jungbürgerinnen und Jungbürger
+23,Kindergartenassistentin,Kindergartenassistentin bzw. assistent
+23,Maschinenbauingenieuren,Maschinenbauingenieurinnen und Maschinenbauingenieuren
+23,Öffentlichkeitsarbeiter,Öffentlichkeitsarbeiterin bzw. -arbeiter
+23,Prozessverantwortlicher,Prozessverantwortliche bzw. Prozessverantwortlicher
+23,Uhrmacherlehrwerkstätte,Lehrwerkstätte für Uhrmacherinnen und Uhrmacher
+23,Universitätsassistenten,UniversitätsassistentInnen
+23,Verwaltungsbediensteter,Verwaltungsbedienstete bzw. Verwaltungsbediensteter
+24,Entwicklungsbeauftragter,Entwicklungsbeauftragte bzw. -beauftragter
+24,Formularverantwortlicher,Formularverantwortliche bzw. Formularverantwortlicher
+24,Kontraktverantwortlicher,Kontraktverantwortliche bzw. -verantwortlicher
+24,Nachwuchswissenschaftler,wissenschaftlicher Nachwuchs
+24,Rechtsanwaltsbeistellung,Beistellung einer Rechtsanwältin bzw. eines Rechtsanwaltes
+24,Technik-Verantwortlicher,Technik-Verantwortliche bzw. -Verantwortlicher
+25,Geschäftsabteilungsleiter,Geschäftsabteilungsleiterin bzw. - leiter
+25,Geschäftsabteilungsleiter,GeschäftsabteilungsleiterInnen
+25,Kundendienststellenleiter,Kundendienststellenleiterin bzw. -leiter
+26,Brandschutzansprechpartner,Brandschutzansprechpartnerin bzw. -ansprechpartner
+26,Brandschutzansprechpartner,BrandschutzansprechpartnerInnen
+26,Dienststellenadministrator,Dienststellenadministration
+26,Kindertagesheiminspektorin,Kindertagesheiminspektorin bzw.- inspektor
+26,Querschnittsbereichsleiter,Querschnittsbereichsleiterin bzw. -bereichsleiter
+27,Alleinverdienerabsetzbetrag,Absetzbetrag für AlleinverdienderInnen
+27,Bezirksseniorenbeauftragter,Bezirksseniorenbeauftragte bzw. -beauftragter
+27,Geschäftsgruppenkoordinator,Geschäftsgruppenkoordinatorin bzw. -koordinator
+27,IKT-Sicherheitsbeauftragter,IKT-Sicherheitsbeauftrage bzw. -beauftragter
+27,Userverwaltungsberechtigter,Userverwaltungsberechtigte bzw. -berechtigter
+27,Ziviltechnikerangelegenheit,Angelegenheit für ZiviltechnikerInnen
+28,Gleichbehandlungsbeauftragte,Gleichbehandlungsbeauftragte bzw. -beauftragter
+28,IP-Adressen-Verantwortlicher,IP-Adressen-Verantwortliche bzw. -Verantwortlicher
+29,Frauengesundheitsbeauftragter,Frauengesundheitsbeauftragte bzw. -beauftragter
+29,Geschäftsgruppenkoordinatoren,GeschäftsgruppenkoordinatorInnen
+30,Bedienstetenschutzbeauftragter,Bedienstetenschutzbeauftragte bzw. -beauftragter
+30,IT-Sicherheitsverantwortlicher,IT-Sicherheitsverantwortliche bzw. -verantwortlicher
